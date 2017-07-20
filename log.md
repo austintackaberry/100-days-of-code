@@ -8,7 +8,7 @@
 
 ### Day 1: July 19, 2017
 
-**Today's Progress**: Conitnued reading cs50 pset8
+**Today's Progress**: Continued reading cs50 pset8
 
 **Thoughts**: This pset looks really long and complicated but also really cool!
 
