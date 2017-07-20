@@ -6,15 +6,11 @@
 
 **Thoughts:** Excited to start 100 days of code!
 
-### Day 1: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 1: July 19, 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Conitnued reading cs50 pset8
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
+**Thoughts**: This pset looks really long and complicated but also really cool!
 
 ### Day 2: June 27, Monday
 
