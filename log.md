@@ -12,12 +12,8 @@
 
 **Thoughts**: This pset looks really long and complicated but also really cool!
 
-### Day 2: June 27, Monday
+### Day 2: July 20, 2017
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Attended CodeClub meetup, learned about branches in GitHub and a little bit of Ruby
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Thoughts**: Really need to learn my way around the command line more, so that I can navigate around Ubuntu more efficiently
