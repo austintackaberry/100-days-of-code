@@ -17,3 +17,9 @@
 **Today's Progress**: Attended CodeClub meetup, learned about branches in GitHub and a little bit of Ruby
 
 **Thoughts**: Really need to learn my way around the command line more, so that I can navigate around Ubuntu more efficiently
+
+### Day 3: July 21, 2017
+
+**Today's Progress**: Started The Odin Project! Learned how the internet works, learned more about git and GitHub, installed a bunch of stuff to start programming Ruby!
+
+**Thoughts**: Not sure how I feel about learning Ruby vs Python for back end in general, but I am excited to learn Ruby to contribute to CodeClub meetup projects which will be done in Ruby.
