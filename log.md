@@ -23,3 +23,9 @@
 **Today's Progress**: Started The Odin Project! Learned how the internet works, learned more about git and GitHub, installed a bunch of stuff to start programming Ruby!
 
 **Thoughts**: Not sure how I feel about learning Ruby vs Python for back end in general, but I am excited to learn Ruby to contribute to CodeClub meetup projects which will be done in Ruby.
+
+### Day 4: July 22, 2017
+
+**Today's Progress**: Chugging along on The Odin Project, getting more comfortable with git.
+
+**Thoughts**: Still not entirely sure why the staging area is a useful feature.
