@@ -26,6 +26,6 @@
 
 ### Day 4: July 22, 2017
 
-**Today's Progress**: Chugging along on The Odin Project, getting more comfortable with git.
+**Today's Progress**: Chugging along on The Odin Project, getting more comfortable with git, HTML, CSS, and Javascript.
 
-**Thoughts**: Still not entirely sure why the staging area is a useful feature.
+**Thoughts**: Still not entirely sure why the staging area is a useful feature in git. Someone on reddit recommended to minimize the copy-pasting when doing tutorials in order to help learn more quickly. I have been doing this, and I think it is great advice.
