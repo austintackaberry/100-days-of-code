@@ -29,3 +29,9 @@
 **Today's Progress**: Chugging along on The Odin Project, getting more comfortable with git, HTML, CSS, and Javascript.
 
 **Thoughts**: Still not entirely sure why the staging area is a useful feature in git. Someone on reddit recommended to minimize the copy-pasting when doing tutorials in order to help learn more quickly. I have been doing this, and I think it is great advice.
+
+### Day 5: July 23, 2017
+
+**Today's Progress**: Attended FreeCodeCamp meetup in Oakland, met some cool people, quit The Odin Project, started FreeCode Camp
+
+**Thoughts**: Made some quick, important decisions today...Realized that Javascript is much more popular than Ruby for web development as of late (via indeed.com, reddit, and podcasts), thus the switch from The Odin Project to FCC. Plus, there is a weekly 6 hour FCC meetup in Oakland!
