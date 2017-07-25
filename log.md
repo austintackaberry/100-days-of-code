@@ -35,3 +35,9 @@
 **Today's Progress**: Attended FreeCodeCamp meetup in Oakland, met some cool people, quit The Odin Project, started FreeCode Camp
 
 **Thoughts**: Made some quick, important decisions today...Realized that Javascript is much more popular than Ruby for web development as of late (via indeed.com, reddit, and podcasts), thus the switch from The Odin Project to FCC. Plus, there is a weekly 6 hour FCC meetup in Oakland!
+
+### Day 6: July 24, 2017
+
+**Today's Progress**: Made some solid progress on cs50 pset8. Almost done!
+
+**Thoughts**: I'm all over the place...not sure if I should completely finish cs50 before digging into FCC or if I should just finish pset8 and leave the final project for later when I am more familiar with Javascript/HTML/CSS. It would be nice to finish cs50 and get it out of the way, but it would also be nice to have my final project be decent!
