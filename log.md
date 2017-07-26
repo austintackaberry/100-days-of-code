@@ -41,3 +41,9 @@
 **Today's Progress**: Made some solid progress on cs50 pset8. Almost done!
 
 **Thoughts**: I'm all over the place...not sure if I should completely finish cs50 before digging into FCC or if I should just finish pset8 and leave the final project for later when I am more familiar with Javascript/HTML/CSS. It would be nice to finish cs50 and get it out of the way, but it would also be nice to have my final project be decent!
+
+### Day 7: July 25, 2017
+
+**Today's Progress**: Finished cs50 pset8!!
+
+**Thoughts**: Feeling accomplished. I think I am going to go back to FreeCodeCamp until I feel capable of making my own cool project that I will use for cs50 Final Project.
