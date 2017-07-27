@@ -47,3 +47,9 @@
 **Today's Progress**: Finished cs50 pset8!!
 
 **Thoughts**: Feeling accomplished. I think I am going to go back to FreeCodeCamp until I feel capable of making my own cool project that I will use for cs50 Final Project.
+
+### Day 8: July 26, 2017
+
+**Today's Progress**: Working my way through HTML and CSS in FreeCodeCamp
+
+**Thoughts**: I have heard good things about FreeCodeCamp, but I will say that I wish the challenges were more difficult. Because the answers are nearly spoon-fed, I don't feel like I am retaining as much as I could have. I am looking forward to the projects and developing a proficiency in HTML/CSS!
