@@ -59,3 +59,9 @@
 **Today's Progress**: Participated in CodeClub meetup where we decided that we will focus on Javascript/CSS/HTML for our projects. Completed the HTML/CSS section of FCC and started Bootstrap.
 
 **Thoughts**: Bootstrap seems helpful and makes CSS manageable. I can't wait to get to Javascript and the first projects! Also glad that there is an Oakland FCC meetup to learn with others.
+
+### Day 10: July 28, 2017
+
+**Today's Progress**: Completed Bootstrap and jQuery sections of FCC. Read the first FCC project.
+
+**Thoughts**: Excited to be working on projects! Really hope I can use my own IDE rather than codepen. I want to get comfortable working on my own setup and using git/github. Unfortunately, I won't be able to code tomorrow as I will be mountaineering at Mt. Shasta!
