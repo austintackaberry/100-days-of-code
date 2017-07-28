@@ -53,3 +53,9 @@
 **Today's Progress**: Working my way through HTML and CSS in FreeCodeCamp
 
 **Thoughts**: I have heard good things about FreeCodeCamp, but I will say that I wish the challenges were more difficult. Because the answers are nearly spoon-fed, I don't feel like I am retaining as much as I could have. I am looking forward to the projects and developing a proficiency in HTML/CSS!
+
+### Day 9: July 27, 2017
+
+**Today's Progress**: Participated in CodeClub meetup where we decided that we will focus on Javascript/CSS/HTML for our projects. Completed the HTML/CSS section of FCC and started Bootstrap.
+
+**Thoughts**: Bootstrap seems helpful and makes CSS manageable. I can't wait to get to Javascript and the first projects! Also glad that there is an Oakland FCC meetup to learn with others.
