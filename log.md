@@ -65,3 +65,9 @@
 **Today's Progress**: Completed Bootstrap and jQuery sections of FCC. Read the first FCC project.
 
 **Thoughts**: Excited to be working on projects! Really hope I can use my own IDE rather than codepen. I want to get comfortable working on my own setup and using git/github. Unfortunately, I won't be able to code tomorrow as I will be mountaineering at Mt. Shasta!
+
+### Day 11: August 1, 2017
+
+**Today's Progress**: Started my first FCC project, making a tribute page for Craig Newmark.
+
+**Thoughts**: Unfortunately, I was unable to code the last 3 days due to mountaineering at Mt. Shasta (awesome experience) over the weekend and going to the A's game yesterday. I almost decided to not do the FCC projects but do my own projects, so that my portfolio is unique, but after googling others' experiences with FCC, the response is overwhelmingly positive. It is hard to find someone that has something negative to say about FCC. Then, I thought about doing FCC beta based on what I was reading on reddit, but they are no longer accepting new campers, so I decided to stick to the normal FCC.
