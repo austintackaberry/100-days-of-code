@@ -70,4 +70,20 @@
 
 **Today's Progress**: Started my first FCC project, making a tribute page for Craig Newmark.
 
-**Thoughts**: Unfortunately, I was unable to code the last 3 days due to mountaineering at Mt. Shasta (awesome experience) over the weekend and going to the A's game yesterday. I almost decided to not do the FCC projects but do my own projects, so that my portfolio is unique, but after googling others' experiences with FCC, the response is overwhelmingly positive. It is hard to find someone that has something negative to say about FCC. Then, I thought about doing FCC beta based on what I was reading on reddit, but they are no longer accepting new campers, so I decided to stick to the normal FCC.
+**Thoughts**: Unfortunately, I was unable to code the last 3 days due to
+mountaineering at Mt. Shasta (awesome experience) over the weekend and going
+ to the A's game yesterday. I almost decided to not do the FCC projects but
+ do my own projects, so that my portfolio is unique, but after googling others'
+ experiences with FCC, the response is overwhelmingly positive. It is hard to
+ find someone that has something negative to say about FCC. Then, I thought
+ about doing FCC beta based on what I was reading on reddit, but they are no
+ longer accepting new campers, so I decided to stick to the normal FCC.
+
+### Day 12: August 2, 2017
+
+**Today's Progress**: Started and almost finished my portfolio webpage!
+
+**Thoughts**: I thought I understood CSS/Bootstrap when I was going through the
+ FCC curriculum, but these projects have revealed some misunderstandings. Today I
+ decided that my goal is to be employed one year after I started learning
+ how to program (May 27, 2017) making the same pay as I do now.
