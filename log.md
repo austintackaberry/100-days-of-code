@@ -81,9 +81,15 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 
 ### Day 12: August 2, 2017
 
-**Today's Progress**: Started and almost finished my portfolio webpage!
+**Today's Progress**: Completed the tribute page. Started and almost finished my portfolio webpage!
 
 **Thoughts**: I thought I understood CSS/Bootstrap when I was going through the
  FCC curriculum, but these projects have revealed some misunderstandings. Today I
  decided that my goal is to be employed one year after I started learning
  how to program (May 27, 2017) making the same pay as I do now.
+ 
+ ### Day 13: August 3, 2017
+ 
+ **Today's Progress**: Made minor changes to Portfolio webpage, made some solid progress on the Basic Javascript section.
+ 
+ **Thoughts**: I can't wait until I get past the syntax and start doing cool stuff with Javascript. I also still need to add a nav bar to my portfolio page and then copy/paste my code into codepen. It's crazy that I've only been coding for a little less than 10 weeks. It feels like that was so long ago!
