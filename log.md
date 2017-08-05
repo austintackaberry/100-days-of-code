@@ -93,3 +93,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
  **Today's Progress**: Made minor changes to Portfolio webpage, made some solid progress on the Basic Javascript section.
  
  **Thoughts**: I can't wait until I get past the syntax and start doing cool stuff with Javascript. I also still need to add a nav bar to my portfolio page and then copy/paste my code into codepen. It's crazy that I've only been coding for a little less than 10 weeks. It feels like that was so long ago!
+ 
+ ### Day 14: August 4, 2017
+ 
+ **Today's Progress**: Finished the Basic Javascript section, 70% done with Basic Algorithm Scripting section, organized a CodeClub meetup for Sunday, August 6th.
+ 
+ **Thoughts**: Wondering when I should start writing blogposts, learning DS&A, contributing to open source projects, etc. Even though I still have 9 months to achieve my goal, I still feel like I am far from being employable.
