@@ -99,3 +99,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
  **Today's Progress**: Finished the Basic Javascript section, 70% done with Basic Algorithm Scripting section, organized a CodeClub meetup for Sunday, August 6th.
  
  **Thoughts**: Wondering when I should start writing blogposts, learning DS&A, contributing to open source projects, etc. Even though I still have 9 months to achieve my goal, I still feel like I am far from being employable.
+ 
+ ### Day 14: August 5, 2017
+ 
+ **Today's Progress**: Finished the Basic Algorithm Scripting Section and JSON APIs and AJAX Section. Messed around with Vim and Atom.
+ 
+ **Thoughts**: After reading about different text editors/IDEs, I figured I'd give Vim a try. I really like the keyboard shortcuts, but at this point I think I need to focus on my code rather than figuring out how to use Vim. After messing around with Atom, I think I am going to make the switch from Intellij Idea. I like that Atom is open source and doesn't block certain packages unless you pay.
