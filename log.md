@@ -105,3 +105,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
  **Today's Progress**: Finished the Basic Algorithm Scripting Section and JSON APIs and AJAX Section. Messed around with Vim and Atom.
  
  **Thoughts**: After reading about different text editors/IDEs, I figured I'd give Vim a try. I really like the keyboard shortcuts, but at this point I think I need to focus on my code rather than figuring out how to use Vim. After messing around with Atom, I think I am going to make the switch from Intellij Idea. I like that Atom is open source and doesn't block certain packages unless you pay.
+
+### Day 15: August 6, 2017
+
+**Today's Progress**: Completed random quote generator and local weather web application.
+
+**Thoughts**: Using javascript to make dynamic webpages is pretty neat. I think I should start a blog to document my journey of learning to code. I really want to get into the back-end already! I feel like I keep putting off actually utilizing bootstrap; I would like to make attractive webpages, but it seems time-consuming. The CodeClub meetup today was a bust. Note to self: give members more than 2 days notice for a meetup.
