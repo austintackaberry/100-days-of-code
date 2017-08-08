@@ -100,14 +100,20 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
  
  **Thoughts**: Wondering when I should start writing blogposts, learning DS&A, contributing to open source projects, etc. Even though I still have 9 months to achieve my goal, I still feel like I am far from being employable.
  
- ### Day 14: August 5, 2017
+ ### Day 15: August 5, 2017
  
  **Today's Progress**: Finished the Basic Algorithm Scripting Section and JSON APIs and AJAX Section. Messed around with Vim and Atom.
  
  **Thoughts**: After reading about different text editors/IDEs, I figured I'd give Vim a try. I really like the keyboard shortcuts, but at this point I think I need to focus on my code rather than figuring out how to use Vim. After messing around with Atom, I think I am going to make the switch from Intellij Idea. I like that Atom is open source and doesn't block certain packages unless you pay.
 
-### Day 15: August 6, 2017
+### Day 16: August 6, 2017
 
 **Today's Progress**: Completed random quote generator and local weather web application.
 
 **Thoughts**: Using javascript to make dynamic webpages is pretty neat. I think I should start a blog to document my journey of learning to code. I really want to get into the back-end already! I feel like I keep putting off actually utilizing bootstrap; I would like to make attractive webpages, but it seems time-consuming. The CodeClub meetup today was a bust. Note to self: give members more than 2 days notice for a meetup.
+
+### Day 17: August 7, 2017
+
+**Today's Progress**: Started and completed wikipedia viewer project.
+
+**Thoughts**: Hit my first real snag in FCC. I was essentially trying to use ajax data before it was sent to me. After a lot of googling and getting nowhere I decided to try to return a function that did something with the ajax data. This forced the ajax request to finish before using the data. My webpages aren't pretty, but they fulfill the user stories. I plan on coming back and touching them up, though I'm not sure when I'm going to commit to really learning CSS!
