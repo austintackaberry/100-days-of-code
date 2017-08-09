@@ -117,3 +117,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Started and completed wikipedia viewer project.
 
 **Thoughts**: Hit my first real snag in FCC. I was essentially trying to use ajax data before it was sent to me. After a lot of googling and getting nowhere I decided to try to return a function that did something with the ajax data. This forced the ajax request to finish before using the data. My webpages aren't pretty, but they fulfill the user stories. I plan on coming back and touching them up, though I'm not sure when I'm going to commit to really learning CSS!
+
+### Day 18: August 8, 2017
+
+**Today's Progress**: Started and completed 25% of the Intermediate Algorithm Scripting Section.
+
+**Thoughts**: Decided to take a light day...wasn't feeling like doing the twitch project, so I skipped ahead to the Intermediate Algorithms. Asked a question on reddit whether or not I should worry about making my projects pretty at this stage, and the consensus seemed to be yes, I should be spending time growing my CSS competence and making my projects pretty. My problem is that I often feel accomplished when I fulfill the user stories and don't have any drive to go back and touch it up. I feel like I should be documenting my progress through a blog or something.
