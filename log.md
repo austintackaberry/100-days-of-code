@@ -123,3 +123,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Started and completed 25% of the Intermediate Algorithm Scripting Section.
 
 **Thoughts**: Decided to take a light day...wasn't feeling like doing the twitch project, so I skipped ahead to the Intermediate Algorithms. Asked a question on reddit whether or not I should worry about making my projects pretty at this stage, and the consensus seemed to be yes, I should be spending time growing my CSS competence and making my projects pretty. My problem is that I often feel accomplished when I fulfill the user stories and don't have any drive to go back and touch it up. I feel like I should be documenting my progress through a blog or something.
+
+### Day 19: August 9, 2017
+
+**Today's Progress**: Went to oakland.js meetup and began Colt Steele's Web Dev Bootcamp.
+
+**Thoughts**: I read on reddit that people recommended following along with Colt Steele's Web Dev Bootcamp while doing FreeCodeCamp, so I am in the process of getting up to speed on Colt's program. I am glad I went to the oakland.js meetup this week, met some cool people and had some cool discussions about javascript and web development. I saw a porfolio of someone who recently finished a bootcamp, and I realized how far away I am...but it's motivating! I only worry that I have a lack of focus given that I am working on CodeClub, FreeCodeCamp, and Colt Steele's bootcamp.
