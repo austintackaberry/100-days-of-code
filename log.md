@@ -129,3 +129,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Went to oakland.js meetup and began Colt Steele's Web Dev Bootcamp.
 
 **Thoughts**: I read on reddit that people recommended following along with Colt Steele's Web Dev Bootcamp while doing FreeCodeCamp, so I am in the process of getting up to speed on Colt's program. I am glad I went to the oakland.js meetup this week, met some cool people and had some cool discussions about javascript and web development. I saw a porfolio of someone who recently finished a bootcamp, and I realized how far away I am...but it's motivating! I only worry that I have a lack of focus given that I am working on CodeClub, FreeCodeCamp, and Colt Steele's bootcamp.
+
+### Day 20: August 10, 2017
+
+**Today's Progress**: Went to CodeClub meetup, planned a meetup for 9/3, finished a couple intermediate algorithm problems, completed twitch web app
+
+**Thoughts**: Didn't really socialize too much at the meetup, just put my head down and cranked out some algorithms. I'm hoping that people will RSVP for my 9/3 meetup given that there is plenty of time for people to see it and plan for it. The asynchronous nature of javascript continues to trip me up. I originally wanted to obtain all the information from twitch synchronously and then send it to the DOM. I realized it was better to build the skeleton into the DOM, so that all the API calls could be asynchronous without changing the DOM unpredictably depending on which calls finished first. Wondering if I should crunch away at freecodecamp or shift over to Colt Steele's Web Dev Bootcamp.
