@@ -135,3 +135,15 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Went to CodeClub meetup, planned a meetup for 9/3, finished a couple intermediate algorithm problems, completed twitch web app
 
 **Thoughts**: Didn't really socialize too much at the meetup, just put my head down and cranked out some algorithms. I'm hoping that people will RSVP for my 9/3 meetup given that there is plenty of time for people to see it and plan for it. The asynchronous nature of javascript continues to trip me up. I originally wanted to obtain all the information from twitch synchronously and then send it to the DOM. I realized it was better to build the skeleton into the DOM, so that all the API calls could be asynchronous without changing the DOM unpredictably depending on which calls finished first. Wondering if I should crunch away at freecodecamp or shift over to Colt Steele's Web Dev Bootcamp.
+
+### Day 21: August 11, 2017
+
+**Today's Progress**: Finished a couple more intermediate algorithm problems, some advanced algorithm problems, and watched the HTML and some CSS sections of Colt Steele's The Web Developer's Bootcamp (WDB)
+
+**Thoughts**: Holding off on some of the intermediate algorithm problems because a fellow FCC camper wanted to do pair programming on some of them. I agree with many people in that WDB is a good supplement for FCC. I find that in FCC I just hack away until I fulfill the user stories not knowing if my code is being done the "right" way. WDB walks through code explaining why things should be done a certain way. Also, WDB uses a real text editor (Sublime) rather than codepen, so it is less hand-holding in that regard. I have also found that the difficult part of completing the algorithms is not just completing them, but completing them in a non-brute force, elegant manner. I try to make my solutions somewhere in between brute force and optimized, so that I am learning but not wasting too much time.
+
+### Day 22: August 12, 2017
+
+**Today's Progress**: Started blogging
+
+**Thoughts**: There has been a voice in my head telling me I should capture my journey through text moreso than just with this log, and today I finally turned that voice into action. I wrote down why I started to learn to code and why I made some of the decisions that I did. Quincy Larson said that there are a lot of blogs on the "Hello World" level and a lot on the advanced level, but not a lot in between. Hopefully my blog (when I do publish it) will be useful to someone who is teaching him/herself to code.
