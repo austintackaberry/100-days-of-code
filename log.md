@@ -153,3 +153,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Started reading "You don't know javascipt" up to "Scope & Closures Chapter 2: Lexical Scope", made solid progress on the tic tac toe project in FCC.
 
 **Thoughts**: I didn't have a ton of time today because I was travelling all day, but I still made some solid progress! The tic-tac-toe game is way more lines of code than it needs to be, but it is only a few finishing touches away from fulfilling the user stories. You Don't Know Javscipt seems to be the phrase that applies to you after you're done reading the book. It is dense. I don't think I am far enough along to really grasp the material, but it is good to get exposed to it. When closures, promises, callbacks come up later, it won't be the first time that I have heard of them. The podcasts I listen to talk about this stuff too, so it's nice to learn about it a little, so that I can understand more of the podcasts I listen to. I think I am getting to the point where I have too much going on: FCC, CodeClub, YDKJS, CSWDB, blogging. That's a lot. I'm going to have to get more focused. I also decided today that I want to live code on twitch at some point.
+
+### Day 24: August 14, 2017
+
+**Today's Progress**: Finished some more intermediate algorthm scripting problems
+
+**Thoughts**: I only have 5 intermediate and 3 advanced algorithm scripting problems left! If you go by the number of hours that FCC says it is supposed to take to do each section, then I am 62% done with the front end certification. Still a long way to go, but I can't believe I have come this far in really only 16 days.
