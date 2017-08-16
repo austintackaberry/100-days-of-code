@@ -159,3 +159,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Finished some more intermediate algorthm scripting problems
 
 **Thoughts**: I only have 5 intermediate and 3 advanced algorithm scripting problems left! If you go by the number of hours that FCC says it is supposed to take to do each section, then I am 62% done with the front end certification. Still a long way to go, but I can't believe I have come this far in really only 16 days.
+
+### Day 25: August 15, 2017
+
+**Today's Progress**: Finished a couple more intermediate algorithm scripting problems
+
+**Thoughts**: Just read about the p1xt guide which recommends against doing the FCC front end program...
