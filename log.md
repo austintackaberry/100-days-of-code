@@ -165,3 +165,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Finished a couple more intermediate algorithm scripting problems
 
 **Thoughts**: Just read about the p1xt guide which recommends against doing the FCC front end program...
+
+### Day 25: August 16, 2017
+
+**Today's Progress**: Completed the intermediate algorithm scripting section
+
+**Thoughts**: today is my birthday, yay
