@@ -166,8 +166,14 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 
 **Thoughts**: Just read about the p1xt guide which recommends against doing the FCC front end program...
 
-### Day 25: August 16, 2017
+### Day 26: August 16, 2017
 
 **Today's Progress**: Completed the intermediate algorithm scripting section
 
 **Thoughts**: today is my birthday, yay
+
+### Day 27: August 17, 2017
+
+**Today's Progress**: Completed 2 more advanced algorithm scripting problems. Only one more to go!
+
+**Thoughts**: And the last one is a doozy. I finally need to learn this and closures. I tried reading those sections of YDKJS and I'm still confused. I'll try again tomorrow!
