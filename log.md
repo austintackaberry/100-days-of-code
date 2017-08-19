@@ -177,3 +177,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Completed 2 more advanced algorithm scripting problems. Only one more to go!
 
 **Thoughts**: And the last one is a doozy. I finally need to learn this and closures. I tried reading those sections of YDKJS and I'm still confused. I'll try again tomorrow!
+
+### Day 28: August 18, 2017
+
+**Today's Progress**: Read some more YDKJS while on the plane travelling back home and finished the advanced algorithm scipting section!
+
+**Thoughts**: Now the only thing standing between me and the Front End Certification is the Advanced Front End Development Project Section! Then I'll have to decide which certification I'll aim for next...I was going to dive into React, but now I'm not sure if I should after all the licensing issues...
