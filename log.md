@@ -183,3 +183,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Read some more YDKJS while on the plane travelling back home and finished the advanced algorithm scipting section!
 
 **Thoughts**: Now the only thing standing between me and the Front End Certification is the Advanced Front End Development Project Section! Then I'll have to decide which certification I'll aim for next...I was going to dive into React, but now I'm not sure if I should after all the licensing issues...
+
+### Day 29: August 19, 2017
+
+**Today's Progress**: Fulfilled user stories for tic tac toe and javascipt calculator projects in FCC
+
+**Thoughts**: Thinking I should catch up on WDB and try to find out how to use the material I am learning from YDKJS
