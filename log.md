@@ -189,3 +189,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Fulfilled user stories for tic tac toe and javascipt calculator projects in FCC
 
 **Thoughts**: Thinking I should catch up on WDB and try to find out how to use the material I am learning from YDKJS
+
+### Day 30: August 20, 2017
+
+**Today's Progress**: Fulfilled user stories for pomodoro clock project
+
+**Thoughts**: Only one more project left for the front end certification!
