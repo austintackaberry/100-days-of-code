@@ -195,3 +195,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Fulfilled user stories for pomodoro clock project
 
 **Thoughts**: Only one more project left for the front end certification!
+
+### Day 31: August 21, 2017
+
+**Today's Progress**: Fulfilled user stories for the simon project
+
+**Thoughts**: Now I just need to find out a way to submit my projects to FCC...Looks like I need to make a separate repo for each project if I want to use GitHub Pages...
