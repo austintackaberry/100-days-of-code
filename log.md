@@ -201,3 +201,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Fulfilled user stories for the simon project
 
 **Thoughts**: Now I just need to find out a way to submit my projects to FCC...Looks like I need to make a separate repo for each project if I want to use GitHub Pages...
+
+### Day 32: August 22, 2017
+
+**Today's Progress**: Made GitHub repos for each of my FCC projects and made GitHub Pages for each of those, so that I could submit them to FCC.....and get my front end certification! Started looking into how I should learn React.
+
+**Thoughts**: Excited to finally begin learning React! Though again that licensing issue makes me worry a bit...not enough to choose a different framework though.
