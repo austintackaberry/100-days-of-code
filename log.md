@@ -204,6 +204,6 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 
 ### Day 32: August 22, 2017
 
-**Today's Progress**: Made GitHub repos for each of my FCC projects and made GitHub Pages for each of those, so that I could submit them to FCC.....and get my front end certification! Started looking into how I should learn React.
+**Today's Progress**: Made GitHub repos for each of my FCC projects and made GitHub Pages for each of those, so that I could submit them to FCC.....and get my front end certification! Started looking into how I should learn React. I also watched some WDB, I'm currently on lecture 60.
 
 **Thoughts**: Excited to finally begin learning React! Though again that licensing issue makes me worry a bit...not enough to choose a different framework though.
