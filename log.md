@@ -207,3 +207,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Made GitHub repos for each of my FCC projects and made GitHub Pages for each of those, so that I could submit them to FCC.....and get my front end certification! Started looking into how I should learn React. I also watched some WDB, I'm currently on lecture 60.
 
 **Thoughts**: Excited to finally begin learning React! Though again that licensing issue makes me worry a bit...not enough to choose a different framework though.
+
+### Day 33: August 23, 2017
+
+**Today's Progress**: Began Facebook's react.js tutorial and attended javascript meetup
+
+**Thoughts**: I hope that I can learn react by doing Facebook's tutorial and reading through the documentation. It doesn't seem like there are many good free courses. I think I would like to learn React then Node and then start contributing to open source software.
