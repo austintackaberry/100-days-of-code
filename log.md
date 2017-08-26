@@ -213,3 +213,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Began Facebook's react.js tutorial and attended javascript meetup
 
 **Thoughts**: I hope that I can learn react by doing Facebook's tutorial and reading through the documentation. It doesn't seem like there are many good free courses. I think I would like to learn React then Node and then start contributing to open source software.
+
+### Day 34: August 25, 2017
+
+**Today's Progress**: Worked through facebook react tutorial, started egghead.io react tutorial
+
+**Thoughts**: Learning react has been much more difficult than HTML/CSS/Bootstrap/Javascript/jQuery. There isn't as much free material on the web, and you need to understand more advanced javascript concepts. "this" is still difficult for me to understand. Hopefully I can find a supplement to YDKJS.
