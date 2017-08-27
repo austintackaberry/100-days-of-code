@@ -219,3 +219,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Worked through facebook react tutorial, started egghead.io react tutorial
 
 **Thoughts**: Learning react has been much more difficult than HTML/CSS/Bootstrap/Javascript/jQuery. There isn't as much free material on the web, and you need to understand more advanced javascript concepts. "this" is still difficult for me to understand. Hopefully I can find a supplement to YDKJS.
+
+### Day 35: August 26, 2017
+
+**Today's Progress**: Read YDKJS sections on `this`, hacked on YDKJS `this` code, and tried to use that to understand what all the `this`s are doing in the facebook react code.
+
+**Thoughts**: I am making progress on understanding the facebook react tutorial, but it is taking time. I am hoping that I can use YDKJS to fully understand the facebook react tutorial code.
