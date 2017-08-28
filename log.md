@@ -225,3 +225,7 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Read YDKJS sections on `this`, hacked on YDKJS `this` code, and tried to use that to understand what all the `this`s are doing in the facebook react code.
 
 **Thoughts**: I am making progress on understanding the facebook react tutorial, but it is taking time. I am hoping that I can use YDKJS to fully understand the facebook react tutorial code.
+
+### Day 36: August 27, 2017
+
+**Today's Progress**: Went to Oakland FCC meetup, but spent the whole time trying to fix my ubuntu slow boot issue. Continued learning about `this` and classes. I had an 'aha' moment when I realized the structures inside of the React Components were methods and not functions...all of a sudden `this` made a lot more sense in the React tutorial code. This made me realize that I should read YDKJS cover to cover before learning React. I also learned today that it is possible that my SSD is dying...to buy a new laptop or get a new SSD and learn how to install it...
