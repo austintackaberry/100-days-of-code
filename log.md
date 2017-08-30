@@ -235,3 +235,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Continued learning `this` in YDKJS. Set up the babel transpiler, so that I can code along with YDKJS in ES6, and see the results on the browser.
 
 **Thoughts**: Learning `this` with YDKJS is taking a long time, but I know that going through YDKJS and following along with the example code will better prepare me in the long run. I am getting antsy...I want to get going on those FCC react apps.
+
+### Day 38: August 29, 2017
+
+**Today's Progress**: Moved on to the Objects section of YDKJS. Next step is learning classes.
+
+**Thoughts**: Progress seems slow, but I am focused which is a good thing.
