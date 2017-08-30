@@ -229,3 +229,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 ### Day 36: August 27, 2017
 
 **Today's Progress**: Went to Oakland FCC meetup, but spent the whole time trying to fix my ubuntu slow boot issue. Continued learning about `this` and classes. I had an 'aha' moment when I realized the structures inside of the React Components were methods and not functions...all of a sudden `this` made a lot more sense in the React tutorial code. This made me realize that I should read YDKJS cover to cover before learning React. I also learned today that it is possible that my SSD is dying...to buy a new laptop or get a new SSD and learn how to install it...
+
+### Day 37: August 28, 2017
+
+**Today's Progress**: Continued learning `this` in YDKJS. Set up the babel transpiler, so that I can code along with YDKJS in ES6, and see the results on the browser.
+
+**Thoughts**: Learning `this` with YDKJS is taking a long time, but I know that going through YDKJS and following along with the example code will better prepare me in the long run. I am getting antsy...I want to get going on those FCC react apps.
