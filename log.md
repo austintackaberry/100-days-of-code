@@ -247,3 +247,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Attended CodeClub meetup and learned how the CodeClub website is set up
 
 **Thoughts**: It would be cool to use react on the CodeClub website, but I'm not sure if it's necessary or when it would be most useful.
+
+### Day 40: September 1, 2017
+
+**Today's Progress**: Read about classes in ydkjs
+
+**Thoughts**: I need to pick up the pace..I feel like I have been wasting time the last week or so. I'm going to hit it hard tomorrow.
