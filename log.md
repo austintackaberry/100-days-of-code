@@ -241,3 +241,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Moved on to the Objects section of YDKJS. Next step is learning classes.
 
 **Thoughts**: Progress seems slow, but I am focused which is a good thing.
+
+### Day 39: August 31, 2017
+
+**Today's Progress**: Attended CodeClub meetup and learned how the CodeClub website is set up
+
+**Thoughts**: It would be cool to use react on the CodeClub website, but I'm not sure if it's necessary or when it would be most useful.
