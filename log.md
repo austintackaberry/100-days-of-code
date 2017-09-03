@@ -253,3 +253,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Read about classes in ydkjs
 
 **Thoughts**: I need to pick up the pace..I feel like I have been wasting time the last week or so. I'm going to hit it hard tomorrow.
+
+### Day 41: September 2, 2017
+
+**Today's Progress**: Continued reading about `class`es and `prototype` in ydkjs until I got bored/tired and watched a couple CSWDB videos.
+
+**Thoughts**: I am hosting a CodeClub meetup tomorrow, and I think I am going to take another stab at React tomorrow.
