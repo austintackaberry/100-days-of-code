@@ -256,6 +256,6 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 
 ### Day 41: September 2, 2017
 
-**Today's Progress**: Continued reading about `class`es and `prototype` in ydkjs until I got bored/tired and watched a couple CSWDB videos.
+**Today's Progress**: Continued reading about `class`es and `prototype` in ydkjs until I got bored/tired and watched a couple CSWDB videos (currently on lecture 65).
 
 **Thoughts**: I am hosting a CodeClub meetup tomorrow, and I think I am going to take another stab at React tomorrow.
