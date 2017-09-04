@@ -259,3 +259,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Continued reading about `class`es and `prototype` in ydkjs until I got bored/tired and watched a couple CSWDB videos (currently on lecture 65).
 
 **Thoughts**: I am hosting a CodeClub meetup tomorrow, and I think I am going to take another stab at React tomorrow.
+
+### Day 42: September 3, 2017
+
+**Today's Progress**: Hosted CodeClub meetup, added "how to contribute" page to CodeClub dev repo, and started/finished my first react app
+
+**Thoughts**: I got a lot done today. I'm happy that I finally contributed to the CodeClub website; hopefully I can get more into it and make more meaningful contributions. It seems like it's really good experience learning how to use Git on a team. Even though I don't fully understand all of the javascript fundamentals, I am glad that I decided to dive in and make my first react app. I think I will plan to finish the freecodecamp react projects, and then later read back through ydkjs. That way I will have some context, and the content will (hopefully) stick in my head a little better. Tomorrow I am planning on make monthly goals to make sure that I am on track with my progress.
