@@ -265,3 +265,15 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Hosted CodeClub meetup, added "how to contribute" page to CodeClub dev repo, and started/finished my first react app
 
 **Thoughts**: I got a lot done today. I'm happy that I finally contributed to the CodeClub website; hopefully I can get more into it and make more meaningful contributions. It seems like it's really good experience learning how to use Git on a team. Even though I don't fully understand all of the javascript fundamentals, I am glad that I decided to dive in and make my first react app. I think I will plan to finish the freecodecamp react projects, and then later read back through ydkjs. That way I will have some context, and the content will (hopefully) stick in my head a little better. Tomorrow I am planning on make monthly goals to make sure that I am on track with my progress.
+
+### Day 43: September 4, 2017
+
+**Today's Progress**: Made some solid progress on the next react app on the FCC data visualization track. Also, made a monthly goals onenote page, so that I ensure that I have short term goals that help me meet my long term goal.
+
+**Thoughts**: I am really glad that I decided to make the short term goals onenote because it is really easy to fall behind without knowing it when you don't have milestones along the way.
+
+### Day 44: September 5, 2017
+
+**Today's Progress**: Watched some more CSWDB videos, up to lecture 72 now.
+
+**Thoughts**: I am glad that I am watching the CSWDB videos. I am now up to the Bootstrap section which made me realize that I have not used Bootstrap in any of my projects thus far. I should probably go back through my projects, and give the CSS some attention, apply the Bootstrap knowledge that I obtained from CSWDB.
