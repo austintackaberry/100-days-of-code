@@ -277,3 +277,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Watched some more CSWDB videos, up to lecture 72 now. Completed the FCC leaderboard project, learned how to build react in an existing web app, used react and the meetup API to display info about the next meetup on the index page of codeclub.social
 
 **Thoughts**: I am glad that I am watching the CSWDB videos. I am now up to the Bootstrap section which made me realize that I have not used Bootstrap in any of my projects thus far. I should probably go back through my projects, and give the CSS some attention, apply the Bootstrap knowledge that I obtained from CSWDB. It was a very productive night, but I should try to go to bed before midnight going forward...preferrably before 10:30PM...This was one of those days where I felt very accomplished by the end. I enjoy working on codeclub.social; however, I also really like the structure of FCC.
+
+### Day 45: September 6, 2017
+
+**Today's Progress**: Went to oakland.js meetup, worked on trying to get the meetup RSVP button to work on codeclub.social
+
+**Thoughts**: I don't know why I can't get the POST request to work with the meetup API, but hopefully I will get some help at the codeclub meetup tomorrow.
