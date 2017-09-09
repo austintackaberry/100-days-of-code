@@ -283,3 +283,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Went to oakland.js meetup, worked on trying to get the meetup RSVP button to work on codeclub.social
 
 **Thoughts**: I don't know why I can't get the POST request to work with the meetup API, but hopefully I will get some help at the codeclub meetup tomorrow.
+
+### Day 46: September 7, 2017
+
+**Today's Progress**: Attended CodeClub meetup and continued working on meetup API for CodeClub
+
+**Thoughts**: Didn't make it out to the sudoroom for javascript night, hoping to make it next week. Still not sure why this oauth2 post request isn't working with the meetup api. I'll try again tomorrow...
