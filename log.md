@@ -289,3 +289,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Attended CodeClub meetup and continued working on meetup API for CodeClub
 
 **Thoughts**: Didn't make it out to the sudoroom for javascript night, hoping to make it next week. Still not sure why this oauth2 post request isn't working with the meetup api. I'll try again tomorrow...
+
+### Day 47: September 8, 2017
+
+**Today's Progress**: Finally got the meetup rsvp button to work on codeclub.social! I merged with dev. Now when the user goes to the index page, he/she can get information about the next meetup, rsvp to the next meetup, and then there will be a message saying that the user did in fact rsvp.
+
+**Thoughts**: The issue with the authentication had something to do with the html form I was using as a button to log in. As soon as I made it an anchor tag, it worked right away. I did something with cookies for the first time which was pretty neat. Overall, I feel pretty accomplished. Perhaps, I should add some more functionality and make it pretty, so that I make it something I am proud of.
