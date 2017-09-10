@@ -295,3 +295,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Finally got the meetup rsvp button to work on codeclub.social! I merged with dev. Now when the user goes to the index page, he/she can get information about the next meetup, rsvp to the next meetup, and then there will be a message saying that the user did in fact rsvp.
 
 **Thoughts**: The issue with the authentication had something to do with the html form I was using as a button to log in. As soon as I made it an anchor tag, it worked right away. I did something with cookies for the first time which was pretty neat. Overall, I feel pretty accomplished. Perhaps, I should add some more functionality and make it pretty, so that I make it something I am proud of.
+
+### Day 48: September 9, 2017
+
+**Today's Progress**: Cleaned up the react meetup api code a bit, made it into a bootstrap card on Brian's suggestion
+
+**Thoughts**: I think I am going to make a card for each of the next 3 meetups. This will make the log ins a little more complicated but it shouldn't be too bad. I am also planning on working on the FCC react recipe box tomorrow. It would probably be a good idea to make a medium post twice a month or so. Maybe I will start that tomorrow as well.
