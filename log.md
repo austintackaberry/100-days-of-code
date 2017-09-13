@@ -301,3 +301,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Cleaned up the react meetup api code a bit, made it into a bootstrap card on Brian's suggestion
 
 **Thoughts**: I think I am going to make a card for each of the next 3 meetups. This will make the log ins a little more complicated but it shouldn't be too bad. I am also planning on working on the FCC react recipe box tomorrow. It would probably be a good idea to make a medium post twice a month or so. Maybe I will start that tomorrow as well.
+
+### Day 49: September 12, 2017
+
+**Today's Progress**: Made bootstrap cards for the next 3 meeetups. Working on getting the RSVP buttons functional.
+
+**Thoughts**: Unfortunately I was unable to code the last 2 days due to personal circumstances, but I am back at it. As soon as I get the 3 RSVP buttons to work, I will work on the next FCC React project. As for the medium post, I may want to make my own blog site...
