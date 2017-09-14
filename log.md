@@ -307,3 +307,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Made bootstrap cards for the next 3 meeetups. Working on getting the RSVP buttons functional.
 
 **Thoughts**: Unfortunately I was unable to code the last 2 days due to personal circumstances, but I am back at it. As soon as I get the 3 RSVP buttons to work, I will work on the next FCC React project. As for the medium post, I may want to make my own blog site...
+
+### Day 50: September 13, 2017
+
+**Today's Progress**: Continued working on the RSVP buttons
+
+**Thoughts**: Finally got the RSVP buttons to work! I haven't pushed to dev yet, but the user can now see the next 3 meetups and RSVP to any/all of them after logging in to meetup. Ready to move on to the next React project in FCC! Though I think I should go over the FB tutorial again...I feel like I am under-utilizing props.
