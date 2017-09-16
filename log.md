@@ -313,3 +313,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Continued working on the RSVP buttons
 
 **Thoughts**: Finally got the RSVP buttons to work! I haven't pushed to dev yet, but the user can now see the next 3 meetups and RSVP to any/all of them after logging in to meetup. Ready to move on to the next React project in FCC! Though I think I should go over the FB tutorial again...I feel like I am under-utilizing props.
+
+### Day 51: September 14, 2017
+
+**Today's Progress**: Finished RSVP buttons, cleaned up the code, pushed to dev, and attended CodeClub meetup
+
+**Thoughts**: Ready to get back to the FCC React projects and try to code the React way rather than the hacky way. Recently I have not been coding as much, and I need to kick it back into high gear if I want to meet my goal.
