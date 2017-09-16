@@ -319,3 +319,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Finished RSVP buttons, cleaned up the code, pushed to dev, and attended CodeClub meetup
 
 **Thoughts**: Ready to get back to the FCC React projects and try to code the React way rather than the hacky way. Recently I have not been coding as much, and I need to kick it back into high gear if I want to meet my goal.
+
+### Day 52: September 15, 2017
+
+**Today's Progress**: Started recipe box project, began the design using bootstrap
+
+**Thoughts**: Ready to start using bootstrap and making my websites cleaner. This seems like a good project to get more familiar with the React lifecycle.
