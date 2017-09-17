@@ -325,3 +325,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Started recipe box project, began the design using bootstrap
 
 **Thoughts**: Ready to start using bootstrap and making my websites cleaner. This seems like a good project to get more familiar with the React lifecycle.
+
+### Day 53: September 16, 2017
+
+**Today's Progress**: Continuing work on recipe box
+
+**Thoughts**: Didn't have much time to work on this today, but I'm ready to get right back into it tomorrow
