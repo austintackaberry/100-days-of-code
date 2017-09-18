@@ -331,3 +331,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Continuing work on recipe box
 
 **Thoughts**: Didn't have much time to work on this today, but I'm ready to get right back into it tomorrow
+
+### Day 54: September 17, 2017
+
+**Today's Progress**: Finished recipe box, started the game of life
+
+**Thoughts**: Seems like this project will take a little bit longer than the other ones. I really want to move to the back end contribute some more to CodeClub! Also, I want to find a better way to meet other web developers near my level.
