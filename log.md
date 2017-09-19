@@ -337,3 +337,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Finished recipe box, started the game of life
 
 **Thoughts**: Seems like this project will take a little bit longer than the other ones. I really want to move to the back end contribute some more to CodeClub! Also, I want to find a better way to meet other web developers near my level.
+
+### Day 55: September 18, 2017
+
+**Today's Progress**: Got the game of life working
+
+**Thoughts**: I really want the chart to work out. That would be a cool feature, but I don't think the chart js react library was made to be updated every second...it's doing some weird things to my timer. Thinking about forgetting about the chart and moving on.
