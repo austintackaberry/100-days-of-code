@@ -343,3 +343,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Got the game of life working
 
 **Thoughts**: I really want the chart to work out. That would be a cool feature, but I don't think the chart js react library was made to be updated every second...it's doing some weird things to my timer. Thinking about forgetting about the chart and moving on.
+
+### Day 56: September 19, 2017
+
+**Today's Progress**: I figured out the issue and got the chart to work. There are still some glitches, but form reading the github issues, it seems like there are some bugs in the library.
+
+**Thoughts**: I am ready to move on past this project, but I am not quite done yet. Turns out the problem had to do with me running this.setState() more than once in componentDidUpdate(), so basically I had an open control loop that was opening an exponential amount of setState lifecycles. I was causing an exponentially infinite loop, so that's pretty neat.
