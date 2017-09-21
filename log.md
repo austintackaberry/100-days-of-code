@@ -349,3 +349,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: I figured out the issue and got the chart to work. There are still some glitches, but form reading the github issues, it seems like there are some bugs in the library.
 
 **Thoughts**: I am ready to move on past this project, but I am not quite done yet. Turns out the problem had to do with me running this.setState() more than once in componentDidUpdate(), so basically I had an open control loop that was opening an exponential amount of setState lifecycles. I was causing an exponentially infinite loop, so that's pretty neat.
+
+### Day 57: September 20, 2017
+
+**Today's Progress**: Fulfilled all the user stories for the game of life FCC project plus I added a dynamic line chart that plots the generations.
+
+**Thoughts**: I am ready to move on to the back end! What an exciting day in Austin's journey of learning to code. I plan to start the back end section of FCC, though I'm sure I will need to supplement with something else outside of FCC.
