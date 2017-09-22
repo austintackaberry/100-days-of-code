@@ -355,3 +355,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Fulfilled all the user stories for the game of life FCC project plus I added a dynamic line chart that plots the generations.
 
 **Thoughts**: I am ready to move on to the back end! What an exciting day in Austin's journey of learning to code. I plan to start the back end section of FCC, though I'm sure I will need to supplement with something else outside of FCC.
+
+### Day 58: September 21, 2017
+
+**Today's Progress**: Attended CodeClub meetup. Started the back end section in FCC! Completed the how-to-npm tutorial.
+
+**Thoughts**: Next step is to start a Node.js server! Can't wait!
