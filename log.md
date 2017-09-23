@@ -361,3 +361,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Attended CodeClub meetup. Started the back end section in FCC! Completed the how-to-npm tutorial.
 
 **Thoughts**: Next step is to start a Node.js server! Can't wait!
+
+### Day 59: September 23, 2017
+
+**Today's Progress**: Completed 5/13 exercises of learnyounode
+
+**Thoughts**: Node reminds me of some of the stuff I did with C and Python in cs50
