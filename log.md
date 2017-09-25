@@ -364,6 +364,12 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 
 ### Day 59: September 23, 2017
 
-**Today's Progress**: Completed 5/13 exercises of learnyounode
+**Today's Progress**: Completed 5/13 exercises of learnyounode, messed around with Vim for small text files
 
 **Thoughts**: Node reminds me of some of the stuff I did with C and Python in cs50
+
+### Day 60: September 24, 2017
+
+**Today's Progress**: Completed all exercises of learnyounode
+
+**Thoughts**: Servers are pretty neat. Looking forward to using Express to build web apps. Also, I think I could benefit from taking the extra effort to learn what goes on behind the hood during HTTP requests and basic server operation. I am on track to complete my September goals by the end of the month.
