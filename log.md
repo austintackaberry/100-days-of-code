@@ -373,3 +373,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Completed all exercises of learnyounode
 
 **Thoughts**: Servers are pretty neat. Looking forward to using Express to build web apps. Also, I think I could benefit from taking the extra effort to learn what goes on behind the hood during HTTP requests and basic server operation. I am on track to complete my September goals by the end of the month.
+
+### Day 61: September 25, 2017
+
+**Today's Progress**: Completed all expressworks exercises
+
+**Thoughts**: Not sure if I should do the Git exercises or not given that I have used Git quite extensively with CodeClub
