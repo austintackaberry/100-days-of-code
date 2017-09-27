@@ -379,3 +379,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Completed all expressworks exercises
 
 **Thoughts**: Not sure if I should do the Git exercises or not given that I have used Git quite extensively with CodeClub
+
+### Day 62: September 26, 2017
+
+**Today's Progress**: Attended Uber meetup, started learnyoumongo
+
+**Thoughts**: I am glad I went to the Uber meetup. I learned a lot about the culture and values of a company like Uber. I realized that there aren't as many people that show up to that kind of event as I originally thought which means the employee to attendee ratio is quite high. If I were farther along in my development, I would definitely go to events like this more often; however, at this stage I think I need to focus more on developing my skills, such as mongodb ;) I also listened to an interesting VC podcast; seems like a common mistake among founders is that they focus on the code too much and on the sales too little.
