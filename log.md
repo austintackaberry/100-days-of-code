@@ -385,3 +385,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Attended Uber meetup, started learnyoumongo
 
 **Thoughts**: I am glad I went to the Uber meetup. I learned a lot about the culture and values of a company like Uber. I realized that there aren't as many people that show up to that kind of event as I originally thought which means the employee to attendee ratio is quite high. If I were farther along in my development, I would definitely go to events like this more often; however, at this stage I think I need to focus more on developing my skills, such as mongodb ;) I also listened to an interesting VC podcast; seems like a common mistake among founders is that they focus on the code too much and on the sales too little.
+
+### Day 63: September 27, 2017
+
+**Today's Progress**: Continued to work on learnyoumongo exercises. Completed 5/9 exercises.
+
+**Thoughts**: I think I am in another working lull. I need to focus and put in the hours.
