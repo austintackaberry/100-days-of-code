@@ -391,3 +391,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Continued to work on learnyoumongo exercises. Completed 5/9 exercises.
 
 **Thoughts**: I think I am in another working lull. I need to focus and put in the hours.
+
+### Day 64: September 28, 2017
+
+**Today's Progress**: Completed learnyoumongo
+
+**Thoughts**: Completed my goals for September! Next steps are to start the FCC API projects, then make CodeClub contributions, then complete final project for cs50. I have a long month ahead of me...
