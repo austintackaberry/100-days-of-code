@@ -400,6 +400,6 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 
 ### Day 65: September 30, 2017
 
-**Today's Progress**: Started working on the first FCC API Project.
+**Today's Progress**: Started working on the first FCC API Project, did some writing on my first meetup, linux, the Odin Project, FCC; still only stored in OneNote. I'll have to put my blog posts up online soon.
 
 **Thoughts**: I didn't know it was so easy to run a local server with node. Makes me laugh thinking back to the first time I downloaded and ran Atom, and I was looking for a package that would start a live server for me. I remember thinking it was magic back then.
