@@ -403,3 +403,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Started working on the first FCC API Project, did some writing on my first meetup, linux, the Odin Project, FCC; still only stored in OneNote. I'll have to put my blog posts up online soon.
 
 **Thoughts**: I didn't know it was so easy to run a local server with node. Makes me laugh thinking back to the first time I downloaded and ran Atom, and I was looking for a package that would start a live server for me. I remember thinking it was magic back then.
+
+### Day 66: October 1, 2017
+
+**Today's Progress**: All kinds of progress today. Finished first 3 API projects, and then started having some fun on the 4th. Made a node app that gets picture id from imgur.com/random and then scrapes the page to get the title of that photo and adds it to a mongo database.
+
+**Thoughts**: I made a lot of progress and had a lot of fun. There were definitely frustrating parts. I had issues doing http requests in a loop. I couldn't get mongodb to work for the longest time because of not having the right versions and then having the wrong password. But I wrote a script that gets information and stores it in a database without using an API. I should probably change my code to use the Imgur API once I have the image id, but I'd hate to delete my beautifully hacky web scraping.
