@@ -409,3 +409,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: All kinds of progress today. Finished first 3 API projects, and then started having some fun on the 4th. Made a node app that gets picture id from imgur.com/random and then scrapes the page to get the title of that photo and adds it to a mongo database.
 
 **Thoughts**: I made a lot of progress and had a lot of fun. There were definitely frustrating parts. I had issues doing http requests in a loop. I couldn't get mongodb to work for the longest time because of not having the right versions and then having the wrong password. But I wrote a script that gets information and stores it in a database without using an API. I should probably change my code to use the Imgur API once I have the image id, but I'd hate to delete my beautifully hacky web scraping.
+
+### Day 67: October 2, 2017
+
+**Today's Progress**: Kept working on making database of imgur images, focused on trying to get the random image info via imgur api.
+
+**Thoughts**: Today is one of the few times where I am going to bed before solving the problem I'm working on, but I figure it is worth it to go to bed at a (semi) reasonable time. Trying to figure out how to do two http requests in series with async.queue
