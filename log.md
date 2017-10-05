@@ -415,3 +415,15 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Kept working on making database of imgur images, focused on trying to get the random image info via imgur api.
 
 **Thoughts**: Today is one of the few times where I am going to bed before solving the problem I'm working on, but I figure it is worth it to go to bed at a (semi) reasonable time. Trying to figure out how to do two http requests in series with async.queue
+
+### Day 68: October 3, 2017
+
+**Today's Progress**: Figured out the problem from yesterday. Attended two meetups in sf: Rithm School JS The Tricky Parts and Beer.js
+
+**Thoughts**: Regarding my problem from yesterday, I ended up using async.series with async.queue and also corrected my http.request syntax. The meetups were super useful. The Rithm School class was very useful in helping me learn this, binding, closure, etc. It made me realize I don't know as much as I thought I did. I have a lot to learn in order to get past javascript phone screens. Beer.js was great because there were a good number of developers that were actually professionals in the field that recently moved to the area. It was surprisingly easy to talk to them about web development and I could give them advice about the bay area. Those hours and hours of podcasts I listen to every day are starting to pay off. One guy even connect with me on LinkedIn and offered help if I needed it. Overall, my opinion on sf meetups are much higher than east bay meetups.
+
+### Day 69: October 4, 2017
+
+**Today's Progress**: Added tags to my random Imgur images database to be used later for a search feature. Made an API that takes a number, n, as input and spits out an array of images from my db with length n.
+
+**Thoughts**: Now all I need to do is keeping building my db and then figure out how to use my API to send those arrays of images to the browser and spit them out on a webpage! My end goal is for a user to be able to pick how many random images they want displayed on the webpage and then be able to search for images either within that array or search the whole database. I am really enjoying back end work and I am looking forward to making a full stack web app.
