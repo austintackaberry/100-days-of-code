@@ -427,3 +427,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Added tags to my random Imgur images database to be used later for a search feature. Made an API that takes a number, n, as input and spits out an array of images from my db with length n.
 
 **Thoughts**: Now all I need to do is keeping building my db and then figure out how to use my API to send those arrays of images to the browser and spit them out on a webpage! My end goal is for a user to be able to pick how many random images they want displayed on the webpage and then be able to search for images either within that array or search the whole database. I am really enjoying back end work and I am looking forward to making a full stack web app.
+
+### Day 70: October 5, 2017
+
+**Today's Progress**: Completed my first real full stack web app! It pulls in imgur random image data from a database I created with mongodb, and then displays the images to the browser. Also, watched some CSWDB while I cooked; I am up to lecture 108. Also my db is now over 1100 objects!
+
+**Thoughts**: I enjoy full stack web development. As it stands right now, it takes too long to get all x images from imgur and display them. I'll have to look up different ways to do it more quickly. I also plan to give the user the option of how many images they want to display at a time and then maybe even make it searchable. Tomorrow I may take a break and work on CodeClub.
