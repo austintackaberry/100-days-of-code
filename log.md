@@ -390,7 +390,7 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 
 **Today's Progress**: Continued to work on learnyoumongo exercises. Completed 5/9 exercises.
 
-**Thoughts**: I think I am in another working lull. I need to focus and put in the hours.
+**Thoughts**: I think I am in another working lull. I need to focus and put in the hours. Purchased Colt Steele's new Advanced Web Developer Bootcamp. Looks like it has a lot of good material in it. Looking forward to starting it.
 
 ### Day 64: September 28, 2017
 
@@ -433,3 +433,15 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Completed my first real full stack web app! It pulls in imgur random image data from a database I created with mongodb, and then displays the images to the browser. Also, watched some CSWDB while I cooked; I am up to lecture 108. Also my db is now over 1100 objects!
 
 **Thoughts**: I enjoy full stack web development. As it stands right now, it takes too long to get all x images from imgur and display them. I'll have to look up different ways to do it more quickly. I also plan to give the user the option of how many images they want to display at a time and then maybe even make it searchable. Tomorrow I may take a break and work on CodeClub.
+
+### Day 71: October 6, 2017
+
+**Today's Progress**: Added forum reply feature to CodeClub!
+
+**Thoughts**: I am getting pretty comfortable (relatively speaking) with full stack development. I am surprised it didn't take me that long to read through the codebase and start making contributions on the forum.
+
+### Day 72: October 7, 2017
+
+**Today's Progress**: Improved the forum reply feature. The rich text editor is now hidden until the user clicks "Reply", the user's username is now associated with the comment, and the date created is also displayed with the comment. The date is displayed in the user's timezone. Started watching the new Colt Steele Advanced Web Developer Bootcamp, learned CSS animations.
+
+**Thoughts**: They say that the last 10% takes 90% of the time and I believe it. Getting the timezone to display correctly was a trip. I learned that the ejs files were being rendered on the server side, so when heroku renders the ejs file and sends the html file to the browser, the date object was being parsed assuming UTC timezone, not the user's timezone. To get around this, I made a js file that fetches the date object of each comment, parses it, and manipulates the DOM.
