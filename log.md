@@ -463,3 +463,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Finished setup for last FCC API project, file-size
 
 **Thoughts**: I read a reddit post asking about how to know when you're ready to start applying to jobs, and there was a guide posted that had a very long list of things you should know. It made me think about how there are so many things that everyone says you should do/know in order to be a good web developer. I think if you focus too much about trying to understand each and every one of the topics, then you'll be spread too thin or spend too much time trying to learn all these different areas. I was debating about whether or not I should do this last project. It definitely isn't the sexiest project, but I figured I should have some exposure to working with user-submitted files.
+
+### Day 76: October 11, 2017
+
+**Today's Progress**: Finished the last FCC API project, file-size
+
+**Thoughts**: Just read a reddit post about someone who got a job as a self-taught developer. He/She finished 3 major projects: 2 of them full stack web apps and 1 android, used unit testing, agile development, etc. It made me a little worried about my status/plan. I'm currently worried about not having great portfolio projects, not having started unit testing, and not using debugging tools much. Sometimes I wonder if I should learn some mobile development or maybe Python to help me stand out. I could also benefit from reading up on how version control should be structured with a large app. It's hard to determine what you should learn and what you should not bother with.
