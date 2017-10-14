@@ -469,3 +469,15 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Finished the last FCC API project, file-size
 
 **Thoughts**: Just read a reddit post about someone who got a job as a self-taught developer. He/She finished 3 major projects: 2 of them full stack web apps and 1 android, used unit testing, agile development, etc. It made me a little worried about my status/plan. I'm currently worried about not having great portfolio projects, not having started unit testing, and not using debugging tools much. Sometimes I wonder if I should learn some mobile development or maybe Python to help me stand out. I could also benefit from reading up on how version control should be structured with a large app. It's hard to determine what you should learn and what you should not bother with.
+
+### Day 77: October 12, 2017
+
+**Today's Progress**: Started working on Googelp, a side-by-side google maps/yelp comparison web app. Started troubleshooting CodeClub intermittent app timeout when submitting signup form.
+
+**Thoughts**: Pretty excited about this Googelp project. I googled it and didn't find anything, so it seems at least a little original. This CodeClub bug is intriguing. First time I have encountered a bug that seems to be truly intermittent. Worked for some of us and not others at some times but not others.
+
+### Day 78: October 13, 2017
+
+**Today's Progress**: Found and fixed the CodeClub signup bug.
+
+**Thoughts**: As we all know, programs don't really ever truly do certain things "intermittently" there is a reason for everything that the program does, and it seems as though this reason is that `passport.authenticate('local-signup)` has issues when the username or email is already in the database. I did a simple db query to check if the username/email is already in the db or not.
