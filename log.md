@@ -499,3 +499,7 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Hosted googelp on heroku.
 
 **Thoughts**: Learned how to host a full stack React app to heroku. I had previously thought that `npm run build` was only used for real production web apps, but I just now realized that it needs to be used if you are hosting your web apps. I also realized that webpack is only used for dev purposes. I really should the webpack documentation. I have been spoiled (or maybe punished) for using create-react-app so freely and trustingly.
+
+### Day 82: October 17, 2017
+
+**Today's Progress**: Attended Uber Web meetup, made googelp environment such that it is easy to deploy on heroku and easy to develop. Determined that Google Place Details API won't allow me to find out the number of reviews that each search result has. It only sends up to 5 reviews. I need to decide how much time and effort I want to put into this project. A thought popped into my head to make the app a full page google map and then have google / yelp search result layers pop up over the map and perhaps allow the user to draw their search bounds. That all could take 2-4 weeks to implement which is a lot considering my timeline. Also, decided that it made sense to learn DS&A before contributing to open source.
