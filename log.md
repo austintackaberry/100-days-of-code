@@ -503,3 +503,11 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 ### Day 82: October 17, 2017
 
 **Today's Progress**: Attended Uber Web meetup, made googelp environment such that it is easy to deploy on heroku and easy to develop. Determined that Google Place Details API won't allow me to find out the number of reviews that each search result has. It only sends up to 5 reviews. I need to decide how much time and effort I want to put into this project. A thought popped into my head to make the app a full page google map and then have google / yelp search result layers pop up over the map and perhaps allow the user to draw their search bounds. That all could take 2-4 weeks to implement which is a lot considering my timeline. Also, decided that it made sense to learn DS&A before contributing to open source.
+
+### Day 83: October 18. 2017
+
+**Today's Progress**: Changed google places search results from a google maps method, getPlaces(), to a fetch request done on the backend, so now the user does not have to hit enter twice and improved predictability.
+
+**Thoughts**: The downside of doing it this way is that it is now much slower. There are 2 requests to the server to make 2 more requests to the yelp and google APIs, and these are done in series. I am sure there is a faster way to do it, but I'm not sure how to do it. I wonder if you can make the requests at the same time and only move on when you receive data from both fetch requests? Next steps are to use latitude and longitude to determine which results show up for both google and yelp, just google, and just yelp. I can then use this information to have 3 different marker colors and have infowindows that display the google/yelp rating. Then farther down the line, I could have the map be the full page and the search results could be layered above the map, and the user could draw the search area. Maybe too ambitious, we'll see.
+
+**Thoughts**:
