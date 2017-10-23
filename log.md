@@ -510,4 +510,22 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 
 **Thoughts**: The downside of doing it this way is that it is now much slower. There are 2 requests to the server to make 2 more requests to the yelp and google APIs, and these are done in series. I am sure there is a faster way to do it, but I'm not sure how to do it. I wonder if you can make the requests at the same time and only move on when you receive data from both fetch requests? Next steps are to use latitude and longitude to determine which results show up for both google and yelp, just google, and just yelp. I can then use this information to have 3 different marker colors and have infowindows that display the google/yelp rating. Then farther down the line, I could have the map be the full page and the search results could be layered above the map, and the user could draw the search area. Maybe too ambitious, we'll see.
 
-**Thoughts**:
+### Day 84: October 20, 2017
+
+**Today's Progress**: Continued working on googelp project. Now tracking which search results show up on both google and yelp, made a separate icon on google maps for such cases. Added location search, so that the user can search a different location other than the current map area.
+
+**Thoughts**: Didn't code yesterday because I hung out with some friends all evening after work. The algorithm to determine if a google search result matches a yelp result is actually more difficult than I thought it would be. I originally thought I could do it just by coordinates, but google and yelp can be up to 100 meters off for the same place which, in the city, could easily be a different place entirely. The search result name also differs. Ultimately, I had to make an algorithm that used name, address, and coordinates, to minimize false negatives and false positives. Oh, I also toured Dropbox today, and it was amazing. Open bar, free dinner, free snacks, free coffee shop, it was insane.
+
+### Day 85: October 21, 2017
+
+**Today's Progress**: Changed background color to be more appealing, added a loader onSubmit, removed focus from inputs onSubmit, so that the mobile keyboard hides onSubmit. Search result div heights are now set at the height of the tallest item.
+
+**Thoughts**: This project is really coming together. I am pretty excited to share this with friends and family as well as ultimately posting it to Reddit. I'm a little scared to share my code as it is quite hacky, but I'm sure I would get a lot of great feedback from other redditors. I keep thinking about how awesome the Dropbox tour was, and now I want to jump into preparing for interviews and start applying! But I shouldn't. I still have a long way to go.
+
+### Day 86: October 22, 2017
+
+**Today's Progress**: Changed name to yeggle, changed the favicon and maps icon that represents google and yelp search result. Changed search results back so that the number of google/yelp results aren't limited to the minimum length. Added API request to google that will allow the location to not exactly match address (user can type in "berkeley, ca" instead of "Berkeley, CA, United States"). Started on adding sort/filter functionality.
+
+**Thoughts**: I am getting a little sick of this project. I tackled all the low hanging fruit by the morning, so I had to start fixing some of the issues that I was putting off. Namely the additional API request for location and the sort/filter feature. I was debating whether I needed to added the sort/filter feature, but I realized that if I plan to show this to people and have real users, then it will need to have the sort/filter feature. But wow is it more of a pain than I originally thought. If I am sorting by rating, and then I decide to uncheck the "$$" box, then that means I need to add all the results with "$$". Well that shouldn't be much of a problem except now I have to sort again. Does that mean that I have to resort everything? Yes, yes it does. I am ready to get this project done, show it off, and move on. Also, not sure if I want to build something else or move on to YDKJS.
+
+**Thoughts**: 
