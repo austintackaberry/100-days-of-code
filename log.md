@@ -528,4 +528,14 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 
 **Thoughts**: I am getting a little sick of this project. I tackled all the low hanging fruit by the morning, so I had to start fixing some of the issues that I was putting off. Namely the additional API request for location and the sort/filter feature. I was debating whether I needed to added the sort/filter feature, but I realized that if I plan to show this to people and have real users, then it will need to have the sort/filter feature. But wow is it more of a pain than I originally thought. If I am sorting by rating, and then I decide to uncheck the "$$" box, then that means I need to add all the results with "$$". Well that shouldn't be much of a problem except now I have to sort again. Does that mean that I have to resort everything? Yes, yes it does. I am ready to get this project done, show it off, and move on. Also, not sure if I want to build something else or move on to YDKJS.
 
-**Thoughts**: 
+### Day 87: October 23, 2017
+
+**Today's Progress**: Finished sort/filter feature, added transparent div to freeze page during loading.
+
+**Thoughts**: I was determined to finish and stayed up until 2:30 AM to do so. I had plans to share on reddit and get hit with loads of criticism, but to no avail. I only received one comment and it was someone complaining that I was explaining the UI. I'm a little disappointed, but 1) Reddit can be unpredictable, and 2) Honestly, from their standards it probably wasn't that difficult or novel of an idea. Haven't quite decided what I am going to do next.
+
+### Day 88: October 24, 2017
+
+**Today's Progress**: Read the first 59 pages of Clean Code (intro, variable naming, functions, comments), took some notes.
+
+**Thoughts**: Wow, can't believe I'm already at 88 days. It feels like it was so long ago when I started this challenge and was just learning git and hadn't even started learning javascript! I recently read an article on reddit (https://codeburst.io/getting-into-software-development-ca6b8d4ce49e) that basically recommended all the things that I have seen people recommend and talk about, but I had just been putting off. Namely, writing clean code and writing tests. Before I contribute to open source I definitely should learn clean code, writing tests, and complex javascript.
