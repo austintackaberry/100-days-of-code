@@ -539,3 +539,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Read the first 59 pages of Clean Code (intro, variable naming, functions, comments), took some notes.
 
 **Thoughts**: Wow, can't believe I'm already at 88 days. It feels like it was so long ago when I started this challenge and was just learning git and hadn't even started learning javascript! I recently read an article on reddit (https://codeburst.io/getting-into-software-development-ca6b8d4ce49e) that basically recommended all the things that I have seen people recommend and talk about, but I had just been putting off. Namely, writing clean code and writing tests. Before I contribute to open source I definitely should learn clean code, writing tests, and complex javascript.
+
+### Day 89: October 25, 2017
+
+**Today's Progress**: Up to page 120 of Clean Code.
+
+**Thoughts**: I understand the importance of this book, but wow is it dry and boring. I keep having to keep myself from falling asleep. I wish it was written in javascript. I know there was a github repo of clean code for javascript. I'll have to take a look through that once I'm done with clean code. On one hand I wish I would have read this earlier, but on the other hand, it is nice that I have some coding under my belt, so that the learnings are more applicable.
