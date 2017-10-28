@@ -545,3 +545,15 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Up to page 120 of Clean Code.
 
 **Thoughts**: I understand the importance of this book, but wow is it dry and boring. I keep having to keep myself from falling asleep. I wish it was written in javascript. I know there was a github repo of clean code for javascript. I'll have to take a look through that once I'm done with clean code. On one hand I wish I would have read this earlier, but on the other hand, it is nice that I have some coding under my belt, so that the learnings are more applicable.
+
+### Day 90: October 26, 2017
+
+**Today's Progress**: Went to CodeClub meetup, fixed a few small bugs in yeggle.
+
+**Thoughts**: Yeggle received a lot of complements at the CodeClub meetup which was nice considering I received no comments when I posted it to reddit. One of the bugs I was experiencing was in regards to the yeggle button. When the yeggle button is clicked, and you click on one of the markers, only one info window pops up and it is always on the last marker of the list. This bug related to the way that I was making the markers when the yeggle button was clicked. It was a for loop that was reassigning values to bothPlacesMarker and adding an event listener. It turns out that every event listener was tied to bothPlacesMarker, not the value of bothPlacesMarker at the time of creation. I circumvented this issue by creating a separate function that added an event listener and took bothPlacesMarker as an argument.
+
+### Day 91: October 27, 2017
+
+**Today's Progress**: "Finished" Clean Code by Robert C. Martin.
+
+**Thoughts**: There were a couple chapters of material that was either only relevant to Java or it was material that I had simply never heard of and never used, so I skipped those sections. I am very glad that I bought the book and read through it. I had no idea that functions were supposed to be short, and variable names were supposed to be long and descriptive. I learned a little bit about testing. Before, I was wondering why ES6 was needed. I thought I could code whatever I wanted without it, but I can see how clean code would be easier to write with ES6+. I will say that Clean Code was very dry. There were many times when I would start reading and instantly felt sleepy. But I knew it was important, and now I am glad that I have it as a reference. I will try to implement clean code in my future work.
