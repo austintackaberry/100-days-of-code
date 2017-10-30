@@ -557,3 +557,15 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: "Finished" Clean Code by Robert C. Martin. Submitted final project for cs50.
 
 **Thoughts**: There were a couple chapters of material that was either only relevant to Java or it was material that I had simply never heard of and never used, so I skipped those sections. I am very glad that I bought the book and read through it. I had no idea that functions were supposed to be short, and variable names were supposed to be long and descriptive. I learned a little bit about testing. Before, I was wondering why ES6 was needed. I thought I could code whatever I wanted without it, but I can see how clean code would be easier to write with ES6+. I will say that Clean Code was very dry. There were many times when I would start reading and instantly felt sleepy. But I knew it was important, and now I am glad that I have it as a reference. I will try to implement clean code in my future work. I was going to submit my yeggle project for cs50, but then I realized it would be difficult to upload my code to cloud9, so I decided to upload my tic tac toe. Funny how I was waiting all this time because I wanted my final project to be good, and it turns out that I just submitted tic tac toe.
+
+### Day 92: October 28, 2017
+
+**Today's Progress**: Started youtube machine learning with python tutorial.
+
+**Thoughts**: I'm not sure if I should be putting my time/effort elsewhere, but it seems like a project with ML would be a cool zinger on a portfolio
+
+### Day 93: October 29, 2017
+
+**Today's Progress**: Continued machine learning with python tutorial. Decided that my python ML web app is going to be a stock game where the user "plays" against AI in picking stocks to buy/sell. Also, applied for Udacity nanodegree scholarship.
+
+**Thoughts**: I also looked up how many projects one should have on a portfolio. The consensus seemed to be 2-4. My plan right now is to have 4: codeclub, yeggle, python ML app, web animation + payment API + passport. I hope to have them done by end of November, early December but we'll see. The good thing is that I will be at home on vacation for 10 days, so I should be able to spend a lot of time coding then. The application for nanodegree full scholarship seemed to me like a no-brainer. It would be nice to have someone review my code and help with portfolio, github profile, etc. I guess I will know by December 7th...seems so long away.
