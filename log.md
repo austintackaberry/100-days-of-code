@@ -569,3 +569,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Continued machine learning with python tutorial. Decided that my python ML web app is going to be a stock game where the user "plays" against AI in picking stocks to buy/sell. Also, applied for Udacity nanodegree scholarship.
 
 **Thoughts**: I also looked up how many projects one should have on a portfolio. The consensus seemed to be 2-4. My plan right now is to have 4: codeclub, yeggle, python ML app, web animation + payment API + passport. I hope to have them done by end of November, early December but we'll see. The good thing is that I will be at home on vacation for 10 days, so I should be able to spend a lot of time coding then. The application for nanodegree full scholarship seemed to me like a no-brainer. It would be nice to have someone review my code and help with portfolio, github profile, etc. I guess I will know by December 7th...seems so long away.
+
+### Day 94: October 30, 2017
+
+**Today's Progress**: Configured React + D3 + Python Flask app.
+
+**Thoughts**: Excitied to actually start working on this web app. Can't wait to work on a project with ML!
