@@ -575,3 +575,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Configured React + D3 + Python Flask app.
 
 **Thoughts**: Excitied to actually start working on this web app. Can't wait to work on a project with ML!
+
+### Day 95: November 16, 2017
+
+**Today's Progress**: I'm back from my two week vacation to Japan and Thailand! Well, kinda. I went to the Real World React meetup and met a bunch of cool people!
+
+**Thoughts**: I really need to jump back into coding. I'm hoping I can finish my python ml app within a week, but that might be a bit ambitious, especially if I attend a bunch of meetups.
