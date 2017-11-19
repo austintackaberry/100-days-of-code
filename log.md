@@ -581,3 +581,15 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: I'm back from my two week vacation to Japan and Thailand! Well, kinda. I went to the Real World React meetup and met a bunch of cool people!
 
 **Thoughts**: I really need to jump back into coding. I'm hoping I can finish my python ml app within a week, but that might be a bit ambitious, especially if I attend a bunch of meetups.
+
+### Day 96: November 17, 2017
+
+**Today's Progress**: Watched part of the D3 section of The Advanced Web Developer Bootcamp
+
+**Thoughts**: Had grand plans to make a bunch of progress on my stock game ML app, but I was sick all day :(
+
+### Day 97: November 18, 2017
+
+**Today's Progress**: Finished the D3 section of The Advanced Web Developer Bootcamp. Worked on the stock game app: fetched data from quandl and started trying to get D3 working with react. Also watched more videos from Coursera's "Learning how to learn".
+
+**Thoughts**: Glad I got back into coding today, but I definitely need to put in more work tomorrow.
