@@ -593,3 +593,21 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Finished the D3 section of The Advanced Web Developer Bootcamp. Worked on the stock game app: fetched data from quandl and started trying to get D3 working with react. Also watched more videos from Coursera's "Learning how to learn".
 
 **Thoughts**: Glad I got back into coding today, but I definitely need to put in more work tomorrow.
+
+### Day 98: November 19, 2017
+
+**Today's Progress**: Worked on stocks game web app. Finally got random stock graph animation to work.
+
+**Thoughts**: I was getting a little discouraged trying to get d3 to work with react. I'm glad I stuck with it, and I'm happy to finally get it to work.
+
+### Day 99: November 20, 2017
+
+**Today's Progress**: Worked on stocks game web app. Added start button to initiate animation.
+
+**Thoughts**: Didn't get a whole lot done today. This is the first time since I started programming where I have been having motivational issues. I really can't afford to hit a lull especially given that I just came off a 2 week vacation where I didn't code at all.
+
+### Day 100: November 22, 2017
+
+**Today's Progress**: Worked on stocks game web app. Changed start button functionality such that the plotting immediately stops when the start button is clicked, added buy/sell functionality on up/down arrow key press, user is notified at the end whether or not they "beat the market". 
+
+**Thoughts**: Yay it's day 100. I'm going to keep adding to this log probably until I get a job. Now I'm wondering if I should go back and re-number to set day 0 as the day I started to program. Hmmm that would be tedious but I like the idea...It was nice to have a full day to work on the stocks web app. I am pretty close to being ready to start adding the ML component.
