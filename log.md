@@ -614,6 +614,6 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 
 ### Day 180: November 23, 2017
 
-**Today's Progress**:
+**Today's Progress**: Worked on stocks game web app. Made it responsive, changed background color, removed scatter plot for all points except those that are bought/sold. Commented on some reddit posts recommending FCC and CS50. Changed the log.md numbering to reflect the number of days since I started to program.
 
-**Thoughts**: Happy Thanksgiving!
+**Thoughts**: Happy Thanksgiving! It wasn't the most productive day, but it was a holiday after all. I read a reddit comment that convinced me that I really need to learn/use a relational database. It really doesn't make sense to use a non-relational db like MongoDB. I think I've done just about all I can do with my stocks game app without getting into the ML. I'm hoping I can finish by the end of the weekend and get a start on my next project.
