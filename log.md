@@ -617,3 +617,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Worked on stocks game web app. Made it responsive, changed background color, removed scatter plot for all points except those that are bought/sold. Commented on some reddit posts recommending FCC and CS50. Changed the log.md numbering to reflect the number of days since I started to program.
 
 **Thoughts**: Happy Thanksgiving! It wasn't the most productive day, but it was a holiday after all. I read a reddit comment that convinced me that I really need to learn/use a relational database. It really doesn't make sense to use a non-relational db like MongoDB. I think I've done just about all I can do with my stocks game app without getting into the ML. I'm hoping I can finish by the end of the weekend and get a start on my next project.
+
+### Day 181: November 24, 2017
+
+**Today's Progress**: Worked on StockIT. Developed linear regression model that predicts stock value ~30 days in the future.
+
+**Thoughts**: It took me a very long time to get my sklearn linear regression model to work and then output the data in a usable format, but at this moment it works and spits out the data in a format that is usable by the front end. I got hung up on the preprocessing for a solid hour or two. Turns out I was applying two different preprocessing methods to the training data and the prediction data which was causing very poor predictions. Ultimately, I applied the preprocessing to training + prediction data and then split it up into two arrays after applying the preprocessing. I am looking forward to implementing the linear regression, finishing up the formatting, deploying to heroku, and moving on!
