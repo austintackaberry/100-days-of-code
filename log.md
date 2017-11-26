@@ -623,3 +623,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Worked on StockIT. Developed linear regression model that predicts stock value ~30 days in the future.
 
 **Thoughts**: It took me a very long time to get my sklearn linear regression model to work and then output the data in a usable format, but at this moment it works and spits out the data in a format that is usable by the front end. I got hung up on the preprocessing for a solid hour or two. Turns out I was applying two different preprocessing methods to the training data and the prediction data which was causing very poor predictions. Ultimately, I applied the preprocessing to training + prediction data and then split it up into two arrays after applying the preprocessing. I am looking forward to implementing the linear regression, finishing up the formatting, deploying to heroku, and moving on!
+
+### Day 182: November 25, 2017
+
+**Today's Progress**: Worked on StockIT. Added leaderboard sidebar. Went to 2 berkeley meetups: Berkeley Javascript Dojo and Open Programming Session with Code Self Study.
+
+**Thoughts**: There are some formatting issues I need to work out, and maybe I should consider adding buy and sell buttons. Other than that, the only changes I can think of have to do with preventing the intermittent python sklearn errors.
