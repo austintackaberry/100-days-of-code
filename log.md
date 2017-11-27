@@ -629,3 +629,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Worked on StockIT. Added leaderboard sidebar. Went to 2 berkeley meetups: Berkeley Javascript Dojo and Open Programming Session with Code Self Study.
 
 **Thoughts**: There are some formatting issues I need to work out, and maybe I should consider adding buy and sell buttons. Other than that, the only changes I can think of have to do with preventing the intermittent python sklearn errors.
+
+### Day 183: November 26, 2017
+
+**Today's Progress**: Worked on StockIT. Added responsive svg on window resize, made trending speed increase when user uses up all buys/sells, started trying to deploy to heroku, added "landing page", continued to improve formatting.
+
+**Thoughts**: I'm so close to finishing this web app I can taste it. Though I'm sure there will be a lot of tweaking once I first view it on mobile. I could write a lot more, but it's late. Maybe I'll elaborate tomorrow.
