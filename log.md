@@ -635,3 +635,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Worked on StockIT. Added responsive svg on window resize, made trending speed increase when user uses up all buys/sells, started trying to deploy to heroku, added "landing page", continued to improve formatting.
 
 **Thoughts**: I'm so close to finishing this web app I can taste it. Though I'm sure there will be a lot of tweaking once I first view it on mobile. I could write a lot more, but it's late. Maybe I'll elaborate tomorrow.
+
+### Day 184: November 27, 2017
+
+**Today's Progress**: Finally deployed to heroku. Added buy and sell buttons because I realized that without them it is essentially unplayable on mobile.
+
+**Thoughts**: Deploying a flask app with create-react-app was quite frankly a terrible experience. In the future, I should start from a boilerplate. Maybe use django instead of flask. The web app is really coming together. Still some needed formatting on mobile, but nothing major.
