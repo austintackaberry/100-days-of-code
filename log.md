@@ -641,3 +641,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Finally deployed to heroku. Added buy and sell buttons because I realized that without them it is essentially unplayable on mobile.
 
 **Thoughts**: Deploying a flask app with create-react-app was quite frankly a terrible experience. In the future, I should start from a boilerplate. Maybe use django instead of flask. The web app is really coming together. Still some needed formatting on mobile, but nothing major.
+
+### Day 185: November 28, 2017
+
+**Today's Progress**: Tinkered with responsive svg formatting to improve experience on mobile.
+
+**Thoughts**: It would be a lot easier if I could open up developer tools on mobile. I should look and see if there is an app for that...I'm sure there is, and it would save me a lot of dev time.
