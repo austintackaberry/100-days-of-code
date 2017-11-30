@@ -647,3 +647,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Tinkered with responsive svg formatting to improve experience on mobile.
 
 **Thoughts**: It would be a lot easier if I could open up developer tools on mobile. I should look and see if there is an app for that...I'm sure there is, and it would save me a lot of dev time.
+
+### Day 186: November 29, 2017
+
+**Today's Progress**: Got the favicon to work, changed color to that of start button
+
+**Thoughts**: Ended up making favicon from scratch in gimp, so that I could have higher resolution. I didn't know that favicons could be so intense...there are so many different types to account for apple/android icons. I only put the standard png's because I had to write out routings for each file due to difficulties with flask + react. Hoping to finish up this app tomorrow, it's been taking awhile.
