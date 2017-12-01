@@ -650,6 +650,12 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 
 ### Day 186: November 29, 2017
 
-**Today's Progress**: Got the favicon to work, changed color to that of start button
+**Today's Progress**: Got the favicon to work, changed color to that of start button, attended oakland.js
 
 **Thoughts**: Ended up making favicon from scratch in gimp, so that I could have higher resolution. I didn't know that favicons could be so intense...there are so many different types to account for apple/android icons. I only put the standard png's because I had to write out routings for each file due to difficulties with flask + react. Hoping to finish up this app tomorrow, it's been taking awhile.
+
+### Day 187: November 30, 2017
+
+**Today's Progress**: Attended Javascript Night at Sudo Room, added functionality to deactivate buy/sell buttons when user has 0 buys/sells, improved aesthetics of landing page, improved mobile UX when leaderboard mounts
+
+**Thoughts**: I was hoping to finish today, but it looks like I'm going to need another day. Decided that my next app will be a full stack react/python/django/mysql app that scrapes job postings from indeed.com and ranks them based on user inputs: languages/frameworks and associated weights. I may use node/express/passport instead of python/django/passportEquivalent?? Anyways, it was encouraging that people were impressed with my apps at the oakland.js meetup
