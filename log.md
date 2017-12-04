@@ -659,3 +659,27 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Attended Javascript Night at Sudo Room, added functionality to deactivate buy/sell buttons when user has 0 buys/sells, improved aesthetics of landing page, improved mobile UX when leaderboard mounts
 
 **Thoughts**: I was hoping to finish today, but it looks like I'm going to need another day. Decided that my next app will be a full stack react/python/django/mysql app that scrapes job postings from indeed.com and ranks them based on user inputs: languages/frameworks and associated weights. I may use node/express/passport instead of python/django/passportEquivalent?? Anyways, it was encouraging that people were impressed with my apps at the oakland.js meetup
+
+### Day 188: December 1, 2017
+
+**Today's Progress**: Fixed some formatting, responsiveness issues. Leaderboard is now collapsible.
+
+**Thoughts**: The collapsible leaderboard works on all desktop browsers and firefox mobile but not chrome mobile! It is quite frustrating. When I click the hamburger on chrome mobile, the leaderboard opens but it opens outside the viewing window, so then the user has to zoom out to see it. This is one of those few times when I can't google to find someone with a similar experience. Hopefully someone at nodeschool will be able to help me out tomorrow.
+
+### Day 189: December 2, 2017
+
+**Today's Progress**: Went to nodeschool sf, fixed mobile chrome sizing issue! Tweaked mobile responsiveness. Finished!
+
+**Thoughts**: So it wasn't working before the meetup, and I went to go ask someone for help, and then when I showed them, it worked! And then, get this, when I went home after the meetup, the damn thing stopped working. Well turns out I edited the build file but not the dev file. So when I made any change and then did an npm run build, then it overwrote my build file that had the change that fixed it. Finally, I can rest...until my next project.
+
+### Day 190: December 3, 2017
+
+**Today's Progress**: Started my next project, jobSort(), a web app that scrapes job boards for postings and then sorts them based on the languages that the user knows and the weights they assigned.
+
+**Thoughts**: The dataset html tag seemed convenient at first, but now I'm ready to throw it out the window. I want to let the user type the language/framework and then see a list of suggestions and pick one. However, when they press Enter to submit the form, the suggestions don't go away. Which is awful UX, and I'm trying to figure out a work-around. I might just get rid of the dataset tag and do my own implementation. Which would take a long time and be annoying, but what can ya do.
+
+### Day 190: December 3, 2017
+
+**Today's Progress**:
+
+**Thoughts**: 
