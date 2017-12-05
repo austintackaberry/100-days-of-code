@@ -678,8 +678,8 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 
 **Thoughts**: The dataset html tag seemed convenient at first, but now I'm ready to throw it out the window. I want to let the user type the language/framework and then see a list of suggestions and pick one. However, when they press Enter to submit the form, the suggestions don't go away. Which is awful UX, and I'm trying to figure out a work-around. I might just get rid of the dataset tag and do my own implementation. Which would take a long time and be annoying, but what can ya do.
 
-### Day 190: December 3, 2017
+### Day 191: December 4, 2017
 
-**Today's Progress**:
+**Today's Progress**: Developed the skeleton of the front end. Users can input a job search term, enter languages/frameworks they know and also delete from the list, then users can assign weights to each language and send the data to the backend which, right now, just accepts the data and sends a dummy object back.
 
-**Thoughts**: 
+**Thoughts**: I had a productive evening, and I'm proud of what I accomplished today. My approach this project is to not let myself spin my wheels for too long. I want to get the app working before I worry about details. I realized that I will want to make some fancy web animations (partly because I know that the user will be waiting a bit). I also decided that I want to finish this project before I leave for vacation on December 15th. I will have to work a lot to meet that deadline, but that's a good thing because I haven't been moving as quickly, I think, as I was earlier in my journey.
