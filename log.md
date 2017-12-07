@@ -683,3 +683,15 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Developed the skeleton of the front end. Users can input a job search term, enter languages/frameworks they know and also delete from the list, then users can assign weights to each language and send the data to the backend which, right now, just accepts the data and sends a dummy object back.
 
 **Thoughts**: I had a productive evening, and I'm proud of what I accomplished today. My approach this project is to not let myself spin my wheels for too long. I want to get the app working before I worry about details. I realized that I will want to make some fancy web animations (partly because I know that the user will be waiting a bit). I also decided that I want to finish this project before I leave for vacation on December 15th. I will have to work a lot to meet that deadline, but that's a good thing because I haven't been moving as quickly, I think, as I was earlier in my journey.
+
+### Day 192: December 5, 2017
+
+**Today's Progress**: Attended Beer.js meetup in SF
+
+**Thoughts**: Met some cool people for the first time, and some others for the 2nd/3rd time! Ultimately I'm glad I went, though these things tend to be hit or miss. One of the frontend guys there brought me back down to earth a little bit. I was feeling very accomplished and proud after having finished my first 2 real, unique full stack apps, but he wasn't too impressed and recommended that I start early, so that it can be an iterative process.
+
+### Day 193: December 6, 2017
+
+**Today's Progress**: Added location search and implemented github api usage and jobsort on github jobs.
+
+**Thoughts**: I never felt too productive throughout the evening, but at the end of the day looking at my progress, I am proud of what I accomplished. December 15th is quickly approaching! I am going to have to kick it into high gear if I want to finish by then.
