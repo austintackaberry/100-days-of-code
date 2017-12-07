@@ -692,6 +692,6 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 
 ### Day 193: December 6, 2017
 
-**Today's Progress**: Added location search and implemented github api usage and jobsort on github jobs.
+**Today's Progress**: Added location search and implemented github api usage and jobsort on github jobs. Oh and I almost forgot...I purchased a Dell XPS 13 today!
 
 **Thoughts**: I never felt too productive throughout the evening, but at the end of the day looking at my progress, I am proud of what I accomplished. December 15th is quickly approaching! I am going to have to kick it into high gear if I want to finish by then.
