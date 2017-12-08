@@ -695,3 +695,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Added location search and implemented github api usage and jobsort on github jobs. Oh and I almost forgot...I purchased a Dell XPS 13 today!
 
 **Thoughts**: I never felt too productive throughout the evening, but at the end of the day looking at my progress, I am proud of what I accomplished. December 15th is quickly approaching! I am going to have to kick it into high gear if I want to finish by then.
+
+### Day 194: December 7, 2017
+
+**Today's Progress**: Attended SFNode meetup, listened to redditors thoughts on StockIT and responded by using a slider bar to allow users to adjust game speed.
+
+**Thoughts**: I am glad that I posted StockIT to reddit. I would not have thought that the game was too fast. When you play the game 100s of times, you get used to the speed because it helps speed up development. But it's hard to truly picture yourself as a first time user. The slider bar was the big one, but there were a couple other suggestions. I really do want to make all the users happy, but I also need to focus on my next (current) project.
