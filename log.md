@@ -701,3 +701,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Attended SFNode meetup, listened to redditors thoughts on StockIT and responded by using a slider bar to allow users to adjust game speed.
 
 **Thoughts**: I am glad that I posted StockIT to reddit. I would not have thought that the game was too fast. When you play the game 100s of times, you get used to the speed because it helps speed up development. But it's hard to truly picture yourself as a first time user. The slider bar was the big one, but there were a couple other suggestions. I really do want to make all the users happy, but I also need to focus on my next (current) project.
+
+### Day 195: December 8, 2017
+
+**Today's Progress**: github job results now print to the webpage, converted html job description to text and cut description to only 300 characters
+
+**Thoughts**: I was home all day today and I did not get much work done. Part of it was because I am not sure where I want to take the project. Do I want to add monster.com and indeed.com and make it handle a lot of jobs or do I want to have it scrape HN: Who's Hiring and SO jobs and have it be smaller? I would think that it would be perhaps more challenging and get more recognition by other developers if it scraped HN and SO but perhaps it would be less useful. In reality, I need to just make a decision and go with it because I don't have time to twiddle my thumbs. I want to make an app that people will respect and appreciate, but in reality I probably should focus on making an app that builds my skills.
