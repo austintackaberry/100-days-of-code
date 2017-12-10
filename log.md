@@ -707,3 +707,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: github job results now print to the webpage, converted html job description to text and cut description to only 300 characters
 
 **Thoughts**: I was home all day today and I did not get much work done. Part of it was because I am not sure where I want to take the project. Do I want to add monster.com and indeed.com and make it handle a lot of jobs or do I want to have it scrape HN: Who's Hiring and SO jobs and have it be smaller? I would think that it would be perhaps more challenging and get more recognition by other developers if it scraped HN and SO but perhaps it would be less useful. In reality, I need to just make a decision and go with it because I don't have time to twiddle my thumbs. I want to make an app that people will respect and appreciate, but in reality I probably should focus on making an app that builds my skills.
+
+### Day 196: December 9, 2017
+
+**Today's Progress**: web app now also scrapes hacker news who's hiring and stack overflow jobs (had to learn promises!!) and then jobsort()'s them. Also, changed the yeggle PWA title, and fixed the StockIT PWA. 
+
+**Thoughts**: I had an extremely productive day today, and I'm hoping to pick up where I left off tomorrow. Essentially worked from 5AM to 12:30AM with a couple hour long breaks in the middle. Tomorrow I will add a couple front end features, try to improve the speed (it's at 20s yeesh), clean up the data, and add passportjs/mysql. Oh, learning promises was awesome. I needed to find a way to run an array of asynchronous functions, and my usual async library wasn't doing it for me, so I ended up going with Promises. Though I'm really excited to finally understand promises (enough to use them) I really need to look into async/await. It looks really helpful. At this rate, I'll definitely finish this before I go home for the holiday.
