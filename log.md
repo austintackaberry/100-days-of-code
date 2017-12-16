@@ -731,3 +731,15 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Improved regex for searching text for technologies. Planned out flow control for location gathering and filtering.
 
 **Thoughts**: Didn't push a ton of code because most of it was thinking and testing, but I am pretty happy with the current state. Moved on to the next issue, using Google Maps API to get coordinates for HN and user search location. In planning how I want to do this, I realized a couple things. 1) The API looks super easy to use which is nice. 2) I need to have a better handle on Promise flow control. I came up with a plan that only executes code synchronously if it absolutely has to, and I think I came up with a way to write this in code. I have a plan, and now all I need to do is execute. I plan to wake up early, maybe 4:30AM (even though it's almost 1AM right now) to execute my plan. I know I will run into issues due to the fact that the data is super dirty but I'll do what I can. Unfortunately, this web app won't be clean cut like the others; however, it should be pretty useful to people, so we'll see.
+
+### Day 200: December 13, 2017
+
+**Today's Progress**: Really improved the control flow. Changed from using Promises to async library (async.series and async.parallel) Finished implementing HN filter by location, but I had to stop testing due to Google API limitations.
+
+**Thoughts**: I'm getting close! I can taste it. I may have to refactor my code, so that I don't keep running up against Google API limits. I'm going to have to ramp up my coding if I want to finish this app and work on my blog/portfolio while I'm on vacation.
+
+### Day 201: December 14, 2017
+
+**Today's Progress**: Attended Real World React Meetup at Brigade
+
+**Thoughts**: Met some cool people and learned some cool things! I think I've heard enough people rave about axios for me to give it a try. Watching these presentations makes me realize that I really need to clean up my code...and do testing...ahh there's so much to learn!
