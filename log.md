@@ -743,3 +743,27 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Attended Real World React Meetup at Brigade
 
 **Thoughts**: Met some cool people and learned some cool things! I think I've heard enough people rave about axios for me to give it a try. Watching these presentations makes me realize that I really need to clean up my code...and do testing...ahh there's so much to learn!
+
+### Day 202: December 16, 2017
+
+**Today's Progress**: Fixed hn distance from user fn by changing lon to lng, filter by location works now
+
+**Thoughts**: Couldn't code yesterday due to work + packing + red eye flight and I was suuuper tired today on vacation in chicago but somehow i managed to whip out the ole laptop
+
+### Day 203: December 17, 2017
+
+**Today's Progress**: search works with no location entered
+
+**Thoughts**: it's hard to get the motivation to code while on vacation
+
+### Day 204: December 18, 2017
+
+**Today's Progress**: added batchelor, changed code to batch google api requests, worked on sort by post time feature, cleaned up css
+
+**Thoughts**: Google didn't like all of my geolocation api requests and kees shutting me out. batchelor is supposed to make it easy to batch google api requests. once they let me hit up their API again, I'll find out if it actually works. my sister (industrial designer for MNML) mentioned she would want to collaborate on a project and would be willing to help me with the design!
+
+### Day 205: December 19, 2017
+
+**Today's Progress**: Opened up my new XPS 13 9360 pre-loaded with ubuntu, worked on a bunch of issues
+
+**Thoughts**: 
