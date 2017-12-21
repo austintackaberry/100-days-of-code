@@ -766,4 +766,10 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 
 **Today's Progress**: Opened up my new XPS 13 9360 pre-loaded with ubuntu, worked on a bunch of issues
 
-**Thoughts**: 
+**Thoughts**: At first was really slow and laggy, so I updated ubuntu which seemed to help, but then computer started to restart randomly, eventually got to the point where it would get stuck in this boot loop where it would never fully boot before it shut down. Planning on calling dell support tomorrow
+
+### Day 206: December 20, 2017
+
+**Today's Progress**: Called dell technical support which didn't help much, reset to factory, still randomly rebooted, found out batchelor may not work for geocoding requests
+
+**Thoughts**: Overall, not a great day. I might have to just pay for premium if I want to do that many google geocoding requests. Hopefully, I can figure out the random restart issue without wasting a bunch of time...
