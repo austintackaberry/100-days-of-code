@@ -773,3 +773,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Called dell technical support which didn't help much, reset to factory, still randomly rebooted, found out batchelor may not work for geocoding requests
 
 **Thoughts**: Overall, not a great day. I might have to just pay for premium if I want to do that many google geocoding requests. Hopefully, I can figure out the random restart issue without wasting a bunch of time...
+
+### Day 207: December 21, 2017
+
+**Today's Progress**: Deleted batchelor code, created hn-scrape-bot, and created mysql schema with workbench
+
+**Thoughts**: This google geocode query limit issue caused me to rethink this project, and I think I came up with a better plan. I have a separate node file that scrapes hacker news who's hiring every hour or so, parses it, and then saves it to a mysql db. The full stack web app never scrapes hn. Rather, it always gets data from the database. This will take a bit longer, but is definitely the better option. Workbench is interesting...who knew there was so much to a database application (hopefully no db admins are reading this). Next step is populating the db with my node bot, then hosting the db online.
