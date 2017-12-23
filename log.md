@@ -779,3 +779,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Deleted batchelor code, created hn-scrape-bot, and created mysql schema with workbench
 
 **Thoughts**: This google geocode query limit issue caused me to rethink this project, and I think I came up with a better plan. I have a separate node file that scrapes hacker news who's hiring every hour or so, parses it, and then saves it to a mysql db. The full stack web app never scrapes hn. Rather, it always gets data from the database. This will take a bit longer, but is definitely the better option. Workbench is interesting...who knew there was so much to a database application (hopefully no db admins are reading this). Next step is populating the db with my node bot, then hosting the db online.
+
+### Day 208: December 22, 2017
+
+**Today's Progress**: hn-scrape-bot writes to mysql db hosted on AWS, hn-scrape-bot hosted on heroku scheduled to run every hour
+
+**Thoughts**: I made a lot of progress today, but I still have a bit to go. I need to make sure that hn-scraper-bot actually runs every hour and that it runs correctly. Then I need to change jobSort() to read data from the AWS db. It takes a lot of effort to learn new tech; it's one of those things that is really easy to procrastinate. But once you get going you realize that it isn't that different from anything else you've done, and you just work your way through it. I learned mysql, aws, and workbench today. It doesn't seem like much, but it definitely wasn't easy to start the learning process. It did help that I read a success post this morning which brought out the competitive streak in me. After reading all these success posts, I need to convince myself that I'm learning/moving faster or I need to speed up. This was one of those that made me speed up.
