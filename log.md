@@ -785,3 +785,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: hn-scrape-bot writes to mysql db hosted on AWS, hn-scrape-bot hosted on heroku scheduled to run every hour
 
 **Thoughts**: I made a lot of progress today, but I still have a bit to go. I need to make sure that hn-scraper-bot actually runs every hour and that it runs correctly. Then I need to change jobSort() to read data from the AWS db. It takes a lot of effort to learn new tech; it's one of those things that is really easy to procrastinate. But once you get going you realize that it isn't that different from anything else you've done, and you just work your way through it. I learned mysql, aws, and workbench today. It doesn't seem like much, but it definitely wasn't easy to start the learning process. It did help that I read a success post this morning which brought out the competitive streak in me. After reading all these success posts, I need to convince myself that I'm learning/moving faster or I need to speed up. This was one of those that made me speed up.
+
+### Day 209: December 23, 2017
+
+**Today's Progress**: jobSort() reads from AWS db, hosted jobSort() on heroku
+
+**Thoughts**: As soon as I thought I was done with the backend, I found out that heroku's server is blocked from stack exchange. I'm going to have to think about how I want to handle this. I can call stack exchange and try to get it unblocked or I could move stack exchange code from server to client side. Stack exchange doesn't want people to scrape their website 
