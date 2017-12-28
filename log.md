@@ -791,3 +791,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: jobSort() reads from AWS db, hosted jobSort() on heroku
 
 **Thoughts**: As soon as I thought I was done with the backend, I found out that heroku's server is blocked from stack exchange. I'm going to have to think about how I want to handle this. I can call stack exchange and try to get it unblocked or I could move stack exchange code from server to client side. Stack exchange doesn't want people to scrape their website 
+
+### Day 213: December 27, 2017
+
+**Today's Progress**: Cleaned up css, found out stack overflow can't be scraped from browser side, emailed stack exchange
+
+**Thoughts**: I was reluctantly trying to implement the stack overflow scraping on the client side to avoid working around the fact that the heroku server is blocked from stack exchange, but then I realized that cheerio only works in node. So I resorted to sending the stack exchange team an email and working on the CSS. 
