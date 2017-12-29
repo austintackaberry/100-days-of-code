@@ -797,3 +797,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Cleaned up css, found out stack overflow can't be scraped from browser side, emailed stack exchange
 
 **Thoughts**: I was reluctantly trying to implement the stack overflow scraping on the client side to avoid working around the fact that the heroku server is blocked from stack exchange, but then I realized that cheerio only works in node. So I resorted to sending the stack exchange team an email and working on the CSS. 
+
+### Day 214: December 28, 2017
+
+**Today's Progress**: cleaned up css, made app responsive, made favicon, fixed hn descriptionText issue
+
+**Thoughts**: I am pretty much done now. Still waiting on a response from stack exchange regrading their blockage of my heroku server. really hoping they will just unblock it, that would make my life a lot easier.
