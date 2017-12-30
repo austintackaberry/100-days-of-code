@@ -803,3 +803,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: cleaned up css, made app responsive, made favicon, fixed hn descriptionText issue
 
 **Thoughts**: I am pretty much done now. Still waiting on a response from stack exchange regrading their blockage of my heroku server. really hoping they will just unblock it, that would make my life a lot easier.
+
+### Day 215: December 29, 2017
+
+**Today's Progress**: disabled stack overflow checkbox, posted my 3 web apps to /r/webdev Share your Projects, fixed up and completed Udacity application
+
+**Thoughts**: looks like im about ready to move on to fixing up codeclub.social.
