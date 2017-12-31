@@ -809,3 +809,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: disabled stack overflow checkbox, posted my 3 web apps to /r/webdev Share your Projects, fixed up and completed Udacity application
 
 **Thoughts**: looks like im about ready to move on to fixing up codeclub.social.
+
+### Day 216: December 30, 2017
+
+**Today's Progress**: Made loader, bought austintackaberry.co, hosted portfolio on github, added videos to portfolio, applied to a job!
+
+**Thoughts**: Overall a pretty productive day. It feels good having a portfolio on my very own top level domain! It needs some work though...I really like how I have videos of my projects that are clickable and send you to the website; however, the resolution is horrible. I don't know if there's much I can do to improve it unfortunately. Tomorrow I'll continue working on my portfolio and touch up codeclub.social.
