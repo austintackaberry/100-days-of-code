@@ -815,3 +815,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Made loader, bought austintackaberry.co, hosted portfolio on github, added videos to portfolio, applied to a job!
 
 **Thoughts**: Overall a pretty productive day. It feels good having a portfolio on my very own top level domain! It needs some work though...I really like how I have videos of my projects that are clickable and send you to the website; however, the resolution is horrible. I don't know if there's much I can do to improve it unfortunately. Tomorrow I'll continue working on my portfolio and touch up codeclub.social.
+
+### Day 217: December 31, 2017
+
+**Today's Progress**: Made a bunch of progress on my portfolio: recorded demos of my projects, made a poster for each video, added descriptions. Started to clean up codeclub.social.
+
+**Thoughts**: Everything is kind of starting to all come together. I still need to work on my portfolio a little bit and decide if I want to add some crazy animations. I've been listening to a lot of Front End Happy Hour, and it's awesome. I could probably do a blogpost on that podcast it's that good. Once I finish touching up codeclub.social, I'll record a video and add it to my portfolio. After that, I'll be mostly preparing for interview questions! I have come a long way in 7 months; I feel like I'm pretty close to my goal and I still have 5 months. I'll definitely have to hit the books hard, but it's really motivating when I can say with confidence that every day I take a step in the right direction. Happy New Year!
