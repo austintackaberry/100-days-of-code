@@ -821,3 +821,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Made a bunch of progress on my portfolio: recorded demos of my projects, made a poster for each video, added descriptions. Started to clean up codeclub.social.
 
 **Thoughts**: Everything is kind of starting to all come together. I still need to work on my portfolio a little bit and decide if I want to add some crazy animations. I've been listening to a lot of Front End Happy Hour, and it's awesome. I could probably do a blogpost on that podcast it's that good. Once I finish touching up codeclub.social, I'll record a video and add it to my portfolio. After that, I'll be mostly preparing for interview questions! I have come a long way in 7 months; I feel like I'm pretty close to my goal and I still have 5 months. I'll definitely have to hit the books hard, but it's really motivating when I can say with confidence that every day I take a step in the right direction. Happy New Year!
+
+### Day 218: January 1, 2018
+
+**Today's Progress**: Cleaned up codeclub.social, added favicons to codeclub and my portfolio, made portfolio look better and responsive, added minor animations, applied to some more jobs, scheduled 3 codeclub meetups
+
+**Thoughts**: This weekend I spent a ton of time working on my portfolio, and I think it's coming together. Now that I received the go ahead to schedule meetups, I can take a look at the meetup cards on codeclub.social to clean them up, and then take a video and add to my portfolio. After that, I'll have to decide what to work on next. Hopefully, I will be able to get some feedback from professional SWEs and make a plan.
