@@ -827,3 +827,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Cleaned up codeclub.social, added favicons to codeclub and my portfolio, made portfolio look better and responsive, added minor animations, applied to some more jobs, scheduled 3 codeclub meetups
 
 **Thoughts**: This weekend I spent a ton of time working on my portfolio, and I think it's coming together. Now that I received the go ahead to schedule meetups, I can take a look at the meetup cards on codeclub.social to clean them up, and then take a video and add to my portfolio. After that, I'll have to decide what to work on next. Hopefully, I will be able to get some feedback from professional SWEs and make a plan.
+
+### Day 219: January 2, 2018
+
+**Todays' Progress**: Cleaned up codeclub.social, added it to portfolio, made an anonymized resume, applied to some jobs
+
+**Thoughts**: I need to find a way to get feedback on my resume and some advice on what I should do next. Maybe I'll start reading CTCI. Whatever I end up doing, I need to kick it into high gear.
