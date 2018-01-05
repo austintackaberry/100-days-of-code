@@ -833,3 +833,17 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Todays' Progress**: Cleaned up codeclub.social, added it to portfolio, made an anonymized resume, applied to some jobs
 
 **Thoughts**: I need to find a way to get feedback on my resume and some advice on what I should do next. Maybe I'll start reading CTCI. Whatever I end up doing, I need to kick it into high gear.
+
+### Day 220: January 3, 2018
+
+**Today's Progress**: Improved mobile UX on jobsort
+
+**Thoughts:** A new Hacker News: Who is hiring post came out today, so I posted jobSort() all over hacker news and reddit. This made me realize there was some "simple" things I could do to improve the UX, especially on mobile. I realized that the fonts and margins were too big on mobile, and there was valuable space that I wasn't using.
+
+### Day 221: January 4, 2018
+
+**Today's Progress**: Attended SFNode meetup, gave my pitch on 15 seconds of fame, cleaned up the code on my portfolio
+
+**Thoughts**: I realized today that I should probably clean up my code for my projects before I do anything. It's not exciting, but it feels good to have a path forward.
+
+**Thoughts:
