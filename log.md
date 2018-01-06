@@ -844,6 +844,12 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 
 **Today's Progress**: Attended SFNode meetup, gave my pitch on 15 seconds of fame, cleaned up the code on my portfolio
 
-**Thoughts**: I realized today that I should probably clean up my code for my projects before I do anything. It's not exciting, but it feels good to have a path forward.
+**Thoughts**: I realized today that I should probably clean up my code for my projects before I do anything. It's not exciting, but it feels good to have a path forward. I was very nervous during my 15 seconds of fame, but I got a business card out of it!
 
-**Thoughts:
+### Day 222: January 5, 2018
+
+**Today's Progress**: fixed portfolio banner, fixed codeclub footer, made codeclub responsive, found out that chrome dev tools has an option for mobile testing...
+
+**Thoughts**: I can't believe I just found out about the mobile option in chrome devtools, but I am really glad that I found it. In asking on reactiflux and reddit, it seems like my next move should be to clean up my project code. Tomorrow, I'll start with Yeggle.
+
+**Today's Progress**: 
