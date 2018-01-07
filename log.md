@@ -852,4 +852,8 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 
 **Thoughts**: I can't believe I just found out about the mobile option in chrome devtools, but I am really glad that I found it. In asking on reactiflux and reddit, it seems like my next move should be to clean up my project code. Tomorrow, I'll start with Yeggle.
 
-**Today's Progress**: 
+### Day 223: January 6, 2018
+
+**Today's Progress**: Met some cool people at oakland nodeschool, started cleaning up jobsort codebase
+
+**Thoughts**: Really glad I went to oakland nodeschool...I have a lot to learn. After cleaning up my code, I'm going to learn data structures and algorithms.
