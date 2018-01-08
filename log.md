@@ -857,3 +857,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Met some cool people at oakland nodeschool, started cleaning up jobsort codebase
 
 **Thoughts**: Really glad I went to oakland nodeschool...I have a lot to learn. After cleaning up my code, I'm going to learn data structures and algorithms.
+
+### Day 224: January 7, 2018
+
+**Today's Progress**: Spent all day cleaning up the front end of jobsort
+
+**Thoughts**: It feels good finally splitting up my App component into multiple components and actually using props. Unfortunately, it takes a ton of time, but I know that it's good experience. It's going to be rough doing this for all my projects, but I'll feel a lot better about sharing my code when I'm done.
