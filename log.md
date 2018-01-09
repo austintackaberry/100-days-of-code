@@ -863,3 +863,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Spent all day cleaning up the front end of jobsort
 
 **Thoughts**: It feels good finally splitting up my App component into multiple components and actually using props. Unfortunately, it takes a ton of time, but I know that it's good experience. It's going to be rough doing this for all my projects, but I'll feel a lot better about sharing my code when I'm done.
+
+### Day 225: January 8, 2018
+
+**Today's Progress**: Applied to 12 jobs, fixed jobsortio, made minor changes to portfolio
+
+**Thoughts**: I need to set goals for January and stick to it. After refactoring jobsort, I'm not sure that I want/need to refactor my other projects as well. I think I should first apply to > 40 jobs, and then wait to see if I get any calls. That will help guide me towards my next move.
