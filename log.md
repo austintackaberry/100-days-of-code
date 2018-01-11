@@ -869,3 +869,15 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Applied to 12 jobs, fixed jobsortio, made minor changes to portfolio
 
 **Thoughts**: I need to set goals for January and stick to it. After refactoring jobsort, I'm not sure that I want/need to refactor my other projects as well. I think I should first apply to > 40 jobs, and then wait to see if I get any calls. That will help guide me towards my next move.
+
+### Day 226: January 9, 2018
+
+**Today's Progress**: Applied to a couple more jobs, made changes to resume requested by reddit
+
+**Thoughts**: 2 redditors made some resume suggestions. One of the recommendations was a really good idea and something I hadn't thought about: separating my languages from technologies. They also wanted me to get rid of my full stack engineer title because they thought it would be limiting.
+
+### Day 227: January 10, 2018
+
+**Today's Progress**: Worked on cleaning up backend of jobsort, started reading about testing, attended wafflejs, was accepted to Udacity Grow with Google Challenge Scholarship
+
+**Thoughts**: I found out that 100,000 people applied and 50,000 people were accepted to the scholarship, so not actually that exciting. Oh well. I need to work harder and learn more.
