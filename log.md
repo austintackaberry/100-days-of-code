@@ -881,3 +881,45 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Worked on cleaning up backend of jobsort, started reading about testing, attended wafflejs, was accepted to Udacity Grow with Google Challenge Scholarship
 
 **Thoughts**: I found out that 100,000 people applied and 50,000 people were accepted to the scholarship, so not actually that exciting. Oh well. I need to work harder and learn more.
+
+### Day 228: January 11, 2018
+
+**Today's Progress**:
+
+**Thoughts**:
+
+### Day 229: January 12, 2018
+
+**Today's Progress**:
+
+**Thoughts**:
+
+### Day 230: January 13, 2018
+
+**Today's Progress**:
+
+**Thoughts**:
+
+### Day 231: January 14, 2018
+
+**Today's Progress**:
+
+**Thoughts**:
+
+### Day 232: January 15, 2018
+
+**Today's Progress**:
+
+**Thoughts**:
+
+### Day 233: January 16, 2018
+
+**Today's Progress**:
+
+**Thoughts**:
+
+### Day 234: January 17, 2018
+
+**Today's Progress**: attended oakland.js meetup, discussed portfolio design with designer, completed udacity mockup project, finished applying to 50 jobs 
+
+**Thoughts**: really need to finish this udacity/google pre-scholarship coursework so that I can move onto contributing to open source/ds&a
