@@ -923,3 +923,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: attended oakland.js meetup, discussed portfolio design with designer, completed udacity mockup project, finished applying to 50 jobs 
 
 **Thoughts**: really need to finish this udacity/google pre-scholarship coursework so that I can move onto contributing to open source/ds&a
+
+### Day 235: January 18, 2018
+
+**Today's Progress**: Led CodeClub meetup, finished CSS section of Udacity GWG Challenge, fixed CodeClub.Social meetup cards issue, fixed jobSort() NaNw ago hacker news error
+
+**Thoughts**: Hopefully I can finish the Udacity GWG challenge this weekend.
