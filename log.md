@@ -929,3 +929,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Led CodeClub meetup, finished CSS section of Udacity GWG Challenge, fixed CodeClub.Social meetup cards issue, fixed jobSort() NaNw ago hacker news error
 
 **Thoughts**: Hopefully I can finish the Udacity GWG challenge this weekend.
+
+### Day 236: January 19, 2018
+
+**Today's Progress**: Continued working on UGWGC, stopped working on UGWGC, planned out my learning path, configured jobsort testing with mocha, chai, and enzyme
+
+**Thoughts**: Found out that there is no prize for finishing the UGWGC before April 11th, so I determined that I should work on something else now. I didn't know what I should work on, so I made a list on a whiteboard with post its to help me determine in what order I should learn each topic. I determined that I should learn testing first, then improve my projects, then learn redux. Mostly those are all in preparation for trying to contribute to the React project. After that, I will learn DS&A. Oh, I received an email from Ask Media Group trying to set up a time for my 2nd phone screen! 
