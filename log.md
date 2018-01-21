@@ -935,3 +935,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Continued working on UGWGC, stopped working on UGWGC, planned out my learning path, configured jobsort testing with mocha, chai, and enzyme
 
 **Thoughts**: Found out that there is no prize for finishing the UGWGC before April 11th, so I determined that I should work on something else now. I didn't know what I should work on, so I made a list on a whiteboard with post its to help me determine in what order I should learn each topic. I determined that I should learn testing first, then improve my projects, then learn redux. Mostly those are all in preparation for trying to contribute to the React project. After that, I will learn DS&A. Oh, I received an email from Ask Media Group trying to set up a time for my 2nd phone screen! 
+
+### Day 237: January 20, 2018
+
+**Today's Progress**: Attended code and coffee meetup, attended berkeley javascript dojo meetup, started writing unit tests!
+
+**Thoughts**: Who knew that writing unit tests would be so simple to get up and running! My plan is to get to 100% coverage on jobsort...i should probably do that for StockIT too given that it's at the top of my portfolio project list. I need to redo my Goals by Month plan and think about how much additional time I need to allocate in order to reach my goals.
