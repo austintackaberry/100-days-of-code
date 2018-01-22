@@ -941,3 +941,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Attended code and coffee meetup, attended berkeley javascript dojo meetup, started writing unit tests!
 
 **Thoughts**: Who knew that writing unit tests would be so simple to get up and running! My plan is to get to 100% coverage on jobsort...i should probably do that for StockIT too given that it's at the top of my portfolio project list. I need to redo my Goals by Month plan and think about how much additional time I need to allocate in order to reach my goals.
+
+### Day 238: Janurary 21, 2018
+
+**Today's Progress**: Planned goals by month, set up Travis CI, istanbul, and coveralls to automatically calculate my test coverage, upped jobsort test coverage to 60%, bought some TLDs for my projects.
+
+**Thoughts**: Though unit tests are easy to get started with, they can be exhausting...especially if your code isn't super clean and you need to refactor it in order to get full coverage. I really want to get to 100% coverage, so that I can get the shiny badge, show it off, and move on. The only unfortunate thing is that my net step is to refactor jobsort with redux...which is going to mess up all my tests......
