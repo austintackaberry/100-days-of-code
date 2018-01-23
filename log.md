@@ -947,3 +947,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Planned goals by month, set up Travis CI, istanbul, and coveralls to automatically calculate my test coverage, upped jobsort test coverage to 60%, bought some TLDs for my projects.
 
 **Thoughts**: Though unit tests are easy to get started with, they can be exhausting...especially if your code isn't super clean and you need to refactor it in order to get full coverage. I really want to get to 100% coverage, so that I can get the shiny badge, show it off, and move on. The only unfortunate thing is that my net step is to refactor jobsort with redux...which is going to mess up all my tests......
+
+### Day 239: January 22, 2018
+
+**Today's Progress**: Moved projects over to new TLDs, changed google analytics, updated portfolio, applied to 3 more jobs
+
+**Thoughts**: I was not as productive as I need to be. Applying to jobs takes effort...I'm glad I decided to do 3 per day max for now. Hopefully I can get to 100% test coverage tomorrow. I really need to get the jobsort stack overflow situation figured out too.
