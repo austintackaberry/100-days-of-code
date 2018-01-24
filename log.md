@@ -953,3 +953,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Moved projects over to new TLDs, changed google analytics, updated portfolio, applied to 3 more jobs
 
 **Thoughts**: I was not as productive as I need to be. Applying to jobs takes effort...I'm glad I decided to do 3 per day max for now. Hopefully I can get to 100% test coverage tomorrow. I really need to get the jobsort stack overflow situation figured out too.
+
+### Day 240: January 23, 2018
+
+**Today's Progress**: Watched Dan Abramov's video tutorial series on Redux, refactored jobSort, increased test coverage from 59% to 70%
+
+**Thoughts**: I am still not 100% why/when one should use Redux. I could see how the lack of structure on the state object in React could get troublesome with a massive app, but for my purposes I'm not sure if it's necessary. Perhaps it is not necessary for my personal projects, but it would be good practice and a good skill to learn.
