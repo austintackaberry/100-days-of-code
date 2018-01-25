@@ -959,3 +959,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Watched Dan Abramov's video tutorial series on Redux, refactored jobSort, increased test coverage from 59% to 70%
 
 **Thoughts**: I am still not 100% why/when one should use Redux. I could see how the lack of structure on the state object in React could get troublesome with a massive app, but for my purposes I'm not sure if it's necessary. Perhaps it is not necessary for my personal projects, but it would be good practice and a good skill to learn.
+
+### Day 241: January 24, 2018
+
+**Today's Progress**: Increased test coverage from 70% to 93%
+
+**Thoughts**: Currently stuck on testing fetch. I'll probably need to make a mock fetch and go from there. Nonetheless, happy with my progress! Currently on a 29 day github streak!
