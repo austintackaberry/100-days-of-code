@@ -965,3 +965,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Increased test coverage from 70% to 93%
 
 **Thoughts**: Currently stuck on testing fetch. I'll probably need to make a mock fetch and go from there. Nonetheless, happy with my progress! Currently on a 29 day github streak!
+
+### Day 244: January 27, 2018
+
+**Today's Progress**: 100% test coverage on jobsort, added readmes to my projects, applied to some more jobs
+
+**Thoughts**: Tomorrow I'll probably do some interview prep, apply to some jobs, who knows maybe I'll start adding redux to jobsort
