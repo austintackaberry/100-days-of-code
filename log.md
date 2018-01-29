@@ -971,3 +971,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: 100% test coverage on jobsort, added readmes to my projects, applied to some more jobs
 
 **Thoughts**: Tomorrow I'll probably do some interview prep, apply to some jobs, who knows maybe I'll start adding redux to jobsort
+
+### Day 245: January 28, 2018
+
+**Today's Progress**: Applied to more jobs, learned about how the internet works
+
+**Thoughts**: There isn't much of January left, and I still want to overhaul jobSort() and StockIT by the end of the month. I'll have to see how that goes...
