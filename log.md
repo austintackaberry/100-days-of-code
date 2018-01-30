@@ -977,3 +977,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Applied to more jobs, learned about how the internet works
 
 **Thoughts**: There isn't much of January left, and I still want to overhaul jobSort() and StockIT by the end of the month. I'll have to see how that goes...
+
+### Day 246: January 29, 2018
+
+**Today's Progress**: Removed stack overflow and github from jobsort, started modularizing StockIT
+
+**Thoughts**: Was very productive today. Unfortunately the work I was doing takes a lot of work to make a little progress. I need to find a way to minimize the number of geocode API calls I do with hn-scraper-bot because I am reaching my daily API limit. Also, need to find a way to get an SSL cert for stockit, so that i can add usernames and passwords. Can't wait until I'm done making a global leaderboard!
