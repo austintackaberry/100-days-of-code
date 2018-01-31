@@ -983,3 +983,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Removed stack overflow and github from jobsort, started modularizing StockIT
 
 **Thoughts**: Was very productive today. Unfortunately the work I was doing takes a lot of work to make a little progress. I need to find a way to minimize the number of geocode API calls I do with hn-scraper-bot because I am reaching my daily API limit. Also, need to find a way to get an SSL cert for stockit, so that i can add usernames and passwords. Can't wait until I'm done making a global leaderboard!
+
+### Day 247: January 30, 2018
+
+**Today's Progress**: removed job title from jobsort, changed color scheme, converted hn-scraper-bot to async/await, only makes geocode call if fullPostText has changed since last run
+
+**Thoughts**: Made a ton of progress today, feel pretty good about that. Now I realize why massive monolithic apps are awful. So hard to edit/troubleshoot. Unfortunately, it's looking like I won't finish all my January goals by the end of the month. I need to work extra hard up until the turnaround because I know I won't have much energy during the turnaround.
