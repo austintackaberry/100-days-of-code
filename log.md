@@ -989,3 +989,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: removed job title from jobsort, changed color scheme, converted hn-scraper-bot to async/await, only makes geocode call if fullPostText has changed since last run
 
 **Thoughts**: Made a ton of progress today, feel pretty good about that. Now I realize why massive monolithic apps are awful. So hard to edit/troubleshoot. Unfortunately, it's looking like I won't finish all my January goals by the end of the month. I need to work extra hard up until the turnaround because I know I won't have much energy during the turnaround.
+
+### Day 248: January 31, 2018
+
+**Today's Progress**: Started implementing redux in jobsort()
+
+**Thoughts**: Though redux was a little difficult to grasp at first, as I start to implement it into jobSort(), I realize that the flow of data makes sense. It makes the code cleaner and easier to understand. Once I'm done converting jobsort to redux, I'm going to work on the shipt coding challenge. Waiting to see if I can use React/Redux or if I need to use vanillaJS.
