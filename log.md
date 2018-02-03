@@ -995,3 +995,15 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Started implementing redux in jobsort()
 
 **Thoughts**: Though redux was a little difficult to grasp at first, as I start to implement it into jobSort(), I realize that the flow of data makes sense. It makes the code cleaner and easier to understand. Once I'm done converting jobsort to redux, I'm going to work on the shipt coding challenge. Waiting to see if I can use React/Redux or if I need to use vanillaJS.
+
+### Day 249: February 1, 2018
+
+**Today's Progress**:
+
+**Thoughts**:
+
+### Day 250: February 2, 2018
+
+**Today's Progress**: Maybe fixed hn bot, converted all of SearchResults to redux
+
+**Thoughts**: The more I work with redux, the more intuitive it feels and the more I like it. It makes a lot of sense to split up state updates into actions and reducers. Tomorrow I need to finish converting jobSort() to redux, make sure that hn-scraper-bot works, and get started on the shipt challenge
