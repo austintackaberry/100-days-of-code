@@ -1007,3 +1007,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Maybe fixed hn bot, converted all of SearchResults to redux
 
 **Thoughts**: The more I work with redux, the more intuitive it feels and the more I like it. It makes a lot of sense to split up state updates into actions and reducers. Tomorrow I need to finish converting jobSort() to redux, make sure that hn-scraper-bot works, and get started on the shipt challenge
+
+### Day 251: February 3, 2018
+
+**Today's Progress**: converted all of jobsort to redux, started rewriting tests to play well with redux
+
+**Thoughts**: I enjoyed converting to redux, but i do not enjoy writing these tests. I did get back to 64%, so that's not bad. Going to have to work a lot tomorrow if I want to get back to 100% and make solid progress on the shipt challenge.
