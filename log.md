@@ -1013,3 +1013,15 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: converted all of jobsort to redux, started rewriting tests to play well with redux
 
 **Thoughts**: I enjoyed converting to redux, but i do not enjoy writing these tests. I did get back to 64%, so that's not bad. Going to have to work a lot tomorrow if I want to get back to 100% and make solid progress on the shipt challenge.
+
+### Day 252: February 4, 2018
+
+**Today's Progress**: continued rewriting tests
+
+**Thoughts**: I was not as productive as I wanted to be today. oh well, i'll have to make up for it tomorrow.
+
+### Day 253: February 5, 2018
+
+**Today's Progress**: finished rewriting tests
+
+**Thoughts**: I was quite productive today..it feels good. even though it took a lot of effort to make a little progress. There was a bug in sinon that made useFakeTimers throw an error in strict mode. Luckily I found a workaround on github. Tomorrow I will start (and finish?) my shipt code challenge. Another late night...
