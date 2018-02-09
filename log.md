@@ -1025,3 +1025,13 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: finished rewriting tests
 
 **Thoughts**: I was quite productive today..it feels good. even though it took a lot of effort to make a little progress. There was a bug in sinon that made useFakeTimers throw an error in strict mode. Luckily I found a workaround on github. Tomorrow I will start (and finish?) my shipt code challenge. Another late night...
+
+### Day 254: February 6, 2018
+
+### Day 255: February 7, 2018
+
+### Day 256: February 8, 2018
+
+**Today's Progress**: got my new xps 13 9370, updated jobsort description on portfolio
+
+**Thoughts**: My main goal this month is to contribute to open source. im ready!
