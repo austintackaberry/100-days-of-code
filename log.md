@@ -884,39 +884,39 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 
 ### Day 228: January 11, 2018
 
-**Today's Progress**:
+**Today's Progress**: started udacity google challenge scholarship
 
-**Thoughts**:
+**Thoughts**: hard to tell if this is actually worth it or not. i have definitely already learned all of this material
 
 ### Day 229: January 12, 2018
 
-**Today's Progress**:
+**Today's Progress**: completed quiz: tree to html
 
-**Thoughts**:
+**Thoughts**: currently on vacation skiing, hard to do any coding, but i am trying!
 
 ### Day 230: January 13, 2018
 
-**Today's Progress**:
+**Today's Progress**: finished figures quiz
 
-**Thoughts**:
+**Thoughts**: it sounds weird but i definitely cant wait to get back to coding! vacation is fun and all but i got the itch
 
 ### Day 231: January 14, 2018
 
-**Today's Progress**:
+**Today's Progress**: added comments to jobsort
 
-**Thoughts**:
+**Thoughts**: i feel like time i read something about comments it is the exact opposite of what i read previously. some people love comments, others hate them, and some people like them in moderation. it seems like i should probably at least add comments to code that is very easy to misunderstand the purpose
 
 ### Day 232: January 15, 2018
 
-**Today's Progress**:
+**Today's Progress**: started the first project
 
-**Thoughts**:
+**Thoughts**: havent decided if i want to speed through these and leave the quality at the door or spend a lot of time and effort. certainly udacity doesnt have enough time to read through all of these projects. that would be crazy.
 
 ### Day 233: January 16, 2018
 
-**Today's Progress**:
+**Today's Progress**: worked on udacity mockup project
 
-**Thoughts**:
+**Thoughts**: wow this stuff is boring. it's hard to be motivated when you're not really learning
 
 ### Day 234: January 17, 2018
 
@@ -998,9 +998,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 
 ### Day 249: February 1, 2018
 
-**Today's Progress**:
+**Today's Progress**: added redux to tech in portfolio
 
-**Thoughts**:
+**Thoughts**: hopefully adding redux to my portfolio will open up some more opportunities for me!
 
 ### Day 250: February 2, 2018
 
@@ -1028,10 +1028,48 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 
 ### Day 254: February 6, 2018
 
+**Today's Progress**: Made battleship with react/redux for coding challenge, attended beer.js
+
+**Thoughts**: i was surprised that i could make so much progress in one day, but wow i should have started earlier
+
 ### Day 255: February 7, 2018
+
+**Today's Progress**: finished battleship
+
+**Thoughts**: overall im pretty happy with my progress, but if i had started earlier, i would have had time to add styling and testing. given that testing was on the prompt, i doubt i will be getting a call. oh well, it was a good experience.
 
 ### Day 256: February 8, 2018
 
 **Today's Progress**: got my new xps 13 9370, updated jobsort description on portfolio
 
 **Thoughts**: My main goal this month is to contribute to open source. im ready!
+
+### Day 257: February 9, 2018
+
+**Today's Progress**: updated jobsort readme to include redux and remove stack overflow/github. also forked react
+
+**Thoughts**: forking react and reading through the code was awesome! i can't wait to dive in and start making some sense of the code...might take me awhile.
+
+### Day 258: February 10, 2018
+
+**Today's Progress**: rearranged technologies for stockit, continued coding vba at work, started reading 30 days of react
+
+**Thoughts**: determined that i should read 30 days of react, then react docs, then really focusing on the contribution activity
+
+### Day 259: February 11, 2018
+
+**Today's Progress**: Reworded jobsort description in portfolio, continued coding vba at work, continued reading 30 days of react
+
+**Thoughts**: vba sucks. i really wish i was able to code something else at work. looks like i might be able to do some C# work which would be amazing. i want to make a windows desktop app and share it with people at work. not quite as much as i want to code with react/redux, but hey at least it's real coding and id be getting paid to do it.
+
+### Day 260: February 12, 2018
+
+**Today's Progress**: Rearranged tech in portfolio, continued coding vba at work, finished reading 30 days of react book
+
+**Thoughts**: Today, I found out I wasn't going to be able to code C# at work :(
+
+### Day 261: February 13, 2018
+
+**Today's Progress**: Improved jobsort readme, continued coding vba at work
+
+**Thoughts**: Really bummed that I can't do C# coding at work. I would need supervisor approval and would need my department to pay for a Microsoft azure subscription. can't even use a free version of visual studio. i really don't like coding in vba. but i guess it's better than nothing. i really need to spend more time diving into react docs. 
