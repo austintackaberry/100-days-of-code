@@ -1073,3 +1073,17 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Improved jobsort readme, continued coding vba at work
 
 **Thoughts**: Really bummed that I can't do C# coding at work. I would need supervisor approval and would need my department to pay for a Microsoft azure subscription. can't even use a free version of visual studio. i really don't like coding in vba. but i guess it's better than nothing. i really need to spend more time diving into react docs. 
+
+### Day 262: February 14, 2018
+
+**Today's Progress**: improved yeggle readme, started reading react docs, read ydkjs section on prototype/classes
+
+**Thoughts**: ydkjs will be really helpful in understanding the react codebase. understanding es6 classes, prototype, this, etc. sometimes it is painfully dry and others it is satisfying. Nonetheless, it is necessary. i've noticed it is most helpful if i read it in small batches rather than reading it straight for several hours in a row.
+
+### Day 263: February 15, 2018
+
+**Today's Progress**: improved StockIT readme, finished reading "Quick Start" section of React docs, started reading "Advanced Guides" section of React docs.
+
+**Thoughts**: The more I read the react docs, the more I realize how great they are. It would be awesome if there was documentation like that but instead of explaining how to use React, it explained the source code. Tomorrow I plan to make a node app that will notify me when there is a new open issue in react labeled "good first issue". Also, reading about type checking is making me want to add typescript to my apps...and listening to syntaxfm makes me want to start using ESLint Airbnb style...so much to learn!
+
+**Thoughts**: 
