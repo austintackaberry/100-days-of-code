@@ -1086,4 +1086,8 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 
 **Thoughts**: The more I read the react docs, the more I realize how great they are. It would be awesome if there was documentation like that but instead of explaining how to use React, it explained the source code. Tomorrow I plan to make a node app that will notify me when there is a new open issue in react labeled "good first issue". Also, reading about type checking is making me want to add typescript to my apps...and listening to syntaxfm makes me want to start using ESLint Airbnb style...so much to learn!
 
-**Thoughts**: 
+### Day 264: February 16, 2018
+
+**Today's Progress**: added airbnb eslint and prettier to jobsort
+
+**Thoughts**: As soon as I set up eslint and prettier, I started with 120 errors. It felt awesome to get that number down to 0. I am sold on the airbnb eslint config. Not sure how I ended up doing this before I made the node app for good first issue label notification...oh well, it happened and I feel satisfied
