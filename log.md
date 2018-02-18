@@ -1091,3 +1091,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: added airbnb eslint and prettier to jobsort
 
 **Thoughts**: As soon as I set up eslint and prettier, I started with 120 errors. It felt awesome to get that number down to 0. I am sold on the airbnb eslint config. Not sure how I ended up doing this before I made the node app for good first issue label notification...oh well, it happened and I feel satisfied
+
+### Day 265: February 17, 2018
+
+**Today's Progress**: Finished fixing jobsort tests, went to code and coffee meetup, claimed first open issue, learned about render props
+
+**Thoughts**: So I changed my plan on a whim, and I think it was a good idea. I still would like to contribute to React at some point, but for now I think it makes sense for me to (down)shift my efforts to a newer, less intense codebase. Downshift! I will now be focusing on getting that first pull request, perhaps adding downshift to jobsort, and then trying to make more contributions.
