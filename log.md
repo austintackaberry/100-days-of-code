@@ -1097,3 +1097,45 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Finished fixing jobsort tests, went to code and coffee meetup, claimed first open issue, learned about render props
 
 **Thoughts**: So I changed my plan on a whim, and I think it was a good idea. I still would like to contribute to React at some point, but for now I think it makes sense for me to (down)shift my efforts to a newer, less intense codebase. Downshift! I will now be focusing on getting that first pull request, perhaps adding downshift to jobsort, and then trying to make more contributions.
+
+### Day 266: February 18, 2018
+
+**Today's Progress**: started using downshift with job-sort, added focus to location input onMount
+
+**Thoughts**: downshift is pretty neat! immediately focusing on location input seemed like a good UX decision
+
+### Day 267: February 19, 2018
+
+**Today's Progress**: Worked on job-sort downshift, worked some css magic to make the drop down list appear on top of page
+
+**Thoughts**: i am so glad that i am finally done with that awful <datalist>. it was so glitchy.
+
+### Day 268: February 20, 2018
+
+**Today's Progress**: Opened first PR! updating the redux docs
+
+**Thoughts**: opening my first PR was real neat especially given that it was regarding a contentious topic (when to use redux). i know it was only updating docs, but it still felt good! hopefully i didnt mess anything up.
+
+### Day 269: February 21, 2018
+
+**Today's Progress**: created PR for adding react-final-form example to downshift docs, committed small summary of when to use redux to redux docs
+
+**Thoughts**: It's cool (and nerve-wracking) creating PRs for awesome libraries, but it would be nice to actually contribute to a codebase. some day..
+
+### Day 270: February 22, 2018
+
+**Today's Progress**: had onsite interview, opened issue for bug in downshift, added OSS contributions to portfolio
+
+**Thoughts**: interview went ok, looking forward to working on this bug in downshift!
+
+### Day 271: February 23, 2018
+
+**Today's Progress**: Made angel.co profile, merged jobSort downshift branch into master, fixed some bugs, made PR for downshift
+
+**Thoughts**: It felt good to make my first code PR to OSS.It also felt good making my angel.co profile. I have a feeling that angel.co will be a good place to look.
+
+### Day 272: February 24, 2018
+
+**Today's Progress**: Attended nodeschool sf, improved jobSort tech input, my downshift bug fix was released as a new version!
+
+**Thoughts**: Super excited that my small change was released as it's own version, 1.28.1! I really need to re-evaluate my plan. I'm at a point where I'm not sold on what I should do next which makes me unmotivated to work on anything in particular.
