@@ -1146,37 +1146,37 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 
 **Thoughts**: Every time I read about `this` it makes more sense. I think this might be the last time I read this chapter.
 
-### Day 273: February 26, 2018
+### Day 274: February 26, 2018
 
 **Today's Progress**: Continued reading YDKJS
 
 **Thoughts**: I keep going back in forth whether I should try to focus my portfolio/job applications on being a react/redux dev or just a general software engineer. On one hand, the specialization could mean interviews that focus only on react/redux which would be great, but on the other hand that filters out a lot of potential job opportunities especially larger companies. I think that strateg works better with startups that don't have the time or resources to hire a general software engineer and then train them for the need.
 
-### Day 273: February 27, 2018
+### Day 275: February 27, 2018
 
 **Today's Progress**: Reviewed downshift pull request
 
 **Thoughts**: I didn't know that PR reviews count as contributions! Feels good to be involved on an open source project!
 
-### Day 273: February 28, 2018
+### Day 276: February 28, 2018
 
 **Today's Progress**: Continued reading YDKJS
 
 **Thoughts**: ydkjs can definitely get dry, but it's awesome. it would be even better if there were some quick quizzes or exercises, so that you could test your knowledge.
 
-### Day 273: March 1, 2018
+### Day 277: March 1, 2018
 
 **Today's Progress**: Posted jobSort() to /r/cscareerquestions, changed the color, fixed downshift issues on mobile
 
 **Thoughts**: Was overwhelmed by the community response from /r/cscareerquestions! I had tried to post my project in the past and never got any bites. I think my title was a bit better this time. I received many comments giving suggestions for other HN: WH viewers, but mine was unique in that it was the only one that allowed you to sort the listings based on weights assigned to technologies the users are looking for. Google analytics showed that 650 people viewed my website from my post! Pretty neat.
 
-### Day 273: March 2, 2018
+### Day 278: March 2, 2018
 
 **Today's Progress**: Started flexbox zombies
 
 **Thoughts**: I wouldn't call myself a big gaming guy which is why I hadn't tried out flexbox zombies yet, but so many people recommended it that I figured I had to give it a try. Though I'm sure it would appeal to others moreso than me, I do enjoy it and I do think that it is a better way to learn flexbox than taking a course or reading a blogpost. Definitely not going to be paying $225 for grid critters though...
 
-### Day 273: March 3, 2018
+### Day 279: March 3, 2018
 
 **Today's Progress**: Used Cloudflare to get SSL certs for all my websites, set to always use https
 
