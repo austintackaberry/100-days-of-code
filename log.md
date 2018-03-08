@@ -1190,9 +1190,9 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 
 ### Day 281: March 5, 2018
 
-**Today's Progress**: Added downshift contribution to portfolio, continued reading YDKJS
+**Today's Progress**: Added downshift contribution to portfolio, continued reading YDKJS, published my first blogpost!
 
-**Thoughts**: Though YDKJS is not dry (it's written in a way such that makes it seem like a casual read), it is dense. And it takes a lot of mental energy. Therefore, it is hard to read for long stretches.
+**Thoughts**: Though YDKJS is not dry (it's written in a way such that makes it seem like a casual read), it is dense. And it takes a lot of mental energy. Therefore, it is hard to read for long stretches. Publishing my first Medium post is pretty cool. Now I just need to find a way to share it with others.
 
 ### Day 282: March 6, 2018
 
