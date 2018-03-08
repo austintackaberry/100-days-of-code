@@ -1181,3 +1181,27 @@ mountaineering at Mt. Shasta (awesome experience) over the weekend and going
 **Today's Progress**: Used Cloudflare to get SSL certs for all my websites, set to always use https
 
 **Thoughts**: I have been thinking about doing this for awhile especially given that chrome will soon mark all http sites as Not Secure. I even tried to google it for a bit and came up empty (there were many ways to do it, but i couldn't find a way that was free and quick). Thanks to an email from Quincy from FCC, I was able to follow a quick tutorial showing how to get an SSL cert through cloudflare!
+
+### Day 280: March 4, 2018
+
+**Today's Progress**: Created issue for default behavior of mouseUp event
+
+**Thoughts**: It feels good to be a collaborator on a cool OSS project. Especially given that it was created and is maintained by Kent C. Dodds!
+
+### Day 281: March 5, 2018
+
+**Today's Progress**: Added downshift contribution to portfolio, continued reading YDKJS
+
+**Thoughts**: Though YDKJS is not dry (it's written in a way such that makes it seem like a casual read), it is dense. And it takes a lot of mental energy. Therefore, it is hard to read for long stretches.
+
+### Day 282: March 6, 2018
+
+**Today's Progress**: Created PR for disable item feature
+
+**Thoughts**: I think it all looks good. The only thing I'm worried about is the fact that the test I added is kinda funky. I was able to basically copy the tests for the disable feature of button and input, but it was an odd implementation. There was a comment that explained that the reason for this was due to IE11.
+
+### Day 283: March 7, 2018
+
+**Today's Progress**: Submitted downshift issue regarding menu toggling onSpaceKeyPress, disable feature PR was merged!
+
+**Thoughts**: So glad I got involved with downshift. I need to thank Anthony Ng somehow for introducing me! I feel like I should be doing/learning something else at the same time though.
